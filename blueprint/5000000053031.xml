@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <blueprint id="5000000053031" is_module="true">
+        <blueprint_id>5000000053031</blueprint_id>
+        <data>{"fromPort":"B","toPort":"T2","position":"-4 0","points":"[23.85,37.4,23.85,47.4,23.85,48.7,23.850767,48.7,23.850767,50,23.850767,60]"}</data>
+        <description>First  Blueprint</description>
+        <is_default>false</is_default>
+        <is_enabled>true</is_enabled>
+        <is_published>true</is_published>
+        <layout_id>5000000053003</layout_id>
+        <name>scratchtest_My first Blueprint</name>
+        <position>1</position>
+        <process_stage_map>
+            <process_stage_map_details>
+                <data>{"position":"-23.97955271499362 60"}</data>
+                <is_start_stage>true</is_start_stage>
+                <process_id>5000000053031</process_id>
+                <stage_id>5000000002761</stage_id>
+            </process_stage_map_details>
+            <process_stage_map_details>
+                <data>{"position":"10 160"}</data>
+                <is_start_stage>false</is_start_stage>
+                <process_id>5000000053031</process_id>
+                <stage_id>5000000002776</stage_id>
+            </process_stage_map_details>
+        </process_stage_map>
+        <status>1</status>
+        <transition>
+            <transition_details>
+                <data>{"toPort":"T3"}</data>
+                <des_stage_id>5000000002776</des_stage_id>
+                <is_global>false</is_global>
+                <name>move to Closed</name>
+                <perform_type>0</perform_type>
+                <process_id>5000000053031</process_id>
+                <transition_id>5000000053033</transition_id>
+                <transition_rule_map>
+                    <rule_id>5000000053029</rule_id>
+                    <transition_id>5000000053033</transition_id>
+                </transition_rule_map>
+                <transition_source>
+                    <transition_source_details>
+                        <data>{"fromPort":"B2","points":"[11.073994,112.649124,11.073994,122.649124,11.073994,136.32455,62.210403,136.32455,62.210403,150,62.210403,160]"}</data>
+                        <process_id>5000000053031</process_id>
+                        <src_stage_id>5000000002761</src_stage_id>
+                        <transition_id>5000000053033</transition_id>
+                    </transition_source_details>
+                </transition_source>
+                <transition_type>0</transition_type>
+            </transition_details>
+        </transition>
+    </blueprint>
+</bp_export_data>

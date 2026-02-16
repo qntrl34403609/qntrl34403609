@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <customview id="5000000598089" is_module="true">
+        <customview_id>5000000598089</customview_id>
+        <is_default>1</is_default>
+        <is_shared>0</is_shared>
+        <layout_id>5000000598083</layout_id>
+        <name>Test Board</name>
+        <show_only_to_me>0</show_only_to_me>
+        <type>1</type>
+    </customview>
+</bp_export_data>

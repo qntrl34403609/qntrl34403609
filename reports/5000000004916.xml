@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <reports id="5000000004916" is_module="true">
+        <chart_data>{"aggregate_column":"time_in_status","aggregate_function":"actual","chart_type":"vclusteredbar","plotColumn_type":"pick","plot_column":"STAGE_ID","groupby_column":"RECORD_OWNER"}</chart_data>
+        <description>Know the span of every stage in the Card.</description>
+        <filter>{"timerangefilter":[{"condition":"in","column_name":"created","type":"time","column_value":"last30"}]}</filter>
+        <folder_id>5000000002679</folder_id>
+        <is_char_enabled>true</is_char_enabled>
+        <is_hiddedn>false</is_hiddedn>
+        <is_table_view_enabled>false</is_table_view_enabled>
+        <layout_id>5000000004875</layout_id>
+        <module>1</module>
+        <name>Stage Duration Chart</name>
+        <report_id>5000000004916</report_id>
+        <report_type>2</report_type>
+    </reports>
+</bp_export_data>

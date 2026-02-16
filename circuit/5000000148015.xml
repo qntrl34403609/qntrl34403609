@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <circuit id="5000000148015" is_module="true">
+        <circuit_id>5000000148015</circuit_id>
+        <circuit_map>
+            <circuit_id>5000000148015</circuit_id>
+            <definition_file_id>7537250000000009171</definition_file_id>
+        </circuit_map>
+        <content>{"file_id":"5000000148015"}</content>
+        <description/>
+        <is_active>true</is_active>
+        <link_name>test_circuit_1</link_name>
+        <modified_on>1753869530780</modified_on>
+        <name>test_circuit</name>
+        <resource_mapping>
+            <resource_mapping_details>
+                <child_resource_link_name>standalone_js_testing_1</child_resource_link_name>
+                <child_resource_type>4</child_resource_type>
+                <mapping_id>5000000148016</mapping_id>
+                <parent_resource_link_name>test_circuit_1</parent_resource_link_name>
+                <parent_resource_type>21</parent_resource_type>
+            </resource_mapping_details>
+        </resource_mapping>
+        <status>1</status>
+        <workspace_id>5000000002661</workspace_id>
+    </circuit>
+</bp_export_data>

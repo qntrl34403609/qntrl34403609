@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <connected_cards_standalone id="5000000180021" is_module="true">
+        <cc_layout_id>5000000060249</cc_layout_id>
+        <config_id>5000000180021</config_id>
+        <connected_cards_draft_job>
+            <data>{"customfield_shorttext2":"","customfield_shorttext1":"kaviraj.p@zohotest.com","customfield_dropdown1":"","customfield_dropdown2":"","description":"&lt;div&gt;&lt;br /&gt; &lt;\/div&gt;","record_owner":"","priority":"","title":"Test Job 01"}</data>
+            <job_id>5000000180022</job_id>
+            <layout_id>5000000060249</layout_id>
+            <org_id>5000000000001</org_id>
+            <type>2</type>
+        </connected_cards_draft_job>
+        <draft_job_id>5000000180022</draft_job_id>
+        <name>New Crard</name>
+        <requestor>5000000000005</requestor>
+        <sync_type>1</sync_type>
+    </connected_cards_standalone>
+</bp_export_data>

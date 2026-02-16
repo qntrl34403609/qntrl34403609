@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <roles id="5000000121043" is_module="true">
+        <name>testrole1</name>
+        <role_id>5000000121043</role_id>
+        <userrole_map>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000050011</user_id>
+            </userrole_map_details>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000121063</user_id>
+            </userrole_map_details>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000000005</user_id>
+            </userrole_map_details>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000050089</user_id>
+            </userrole_map_details>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000128009</user_id>
+            </userrole_map_details>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000008005</user_id>
+            </userrole_map_details>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000048053</user_id>
+            </userrole_map_details>
+        </userrole_map>
+    </roles>
+</bp_export_data>

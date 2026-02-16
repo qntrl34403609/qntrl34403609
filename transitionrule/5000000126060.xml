@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <transitionrule id="5000000126060" is_module="true">
+        <is_active>true</is_active>
+        <name>move to Closed</name>
+        <properties>{}</properties>
+        <rule_id>5000000126060</rule_id>
+        <rule_webhook_mapping>
+            <rule_webhook_mapping_details>
+                <entity_id>5000000138024</entity_id>
+                <rule_id>5000000126060</rule_id>
+            </rule_webhook_mapping_details>
+        </rule_webhook_mapping>
+    </transitionrule>
+</bp_export_data>

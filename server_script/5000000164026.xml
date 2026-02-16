@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <server_script id="5000000164026" is_module="true">
+        <is_active>true</is_active>
+        <is_global>false</is_global>
+        <is_published>true</is_published>
+        <language>0</language>
+        <link_name>test_function_21_aug_2025_1_10</link_name>
+        <modified_on>1755752932487</modified_on>
+        <name>test_function_21_aug_2025_1</name>
+        <published_content>{"file_id":"5000000164026_published"}</published_content>
+        <script_id>5000000164026</script_id>
+        <script_location_map>
+            <script_location_map_details>
+                <auto_id>5000000164027</auto_id>
+                <location_id>5000000002649</location_id>
+                <script_id>5000000164026</script_id>
+            </script_location_map_details>
+        </script_location_map>
+        <script_modified>true</script_modified>
+        <server_script_details>
+            <action_type>10</action_type>
+            <client_callable>false</client_callable>
+            <execution_context>0</execution_context>
+            <execution_order>0</execution_order>
+            <script_id>5000000164026</script_id>
+        </server_script_details>
+        <ui_type>0</ui_type>
+    </server_script>
+</bp_export_data>

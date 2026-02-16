@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <permission id="5000000002505" is_module="true">
+        <description>Permission to view/access settings</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>manage_settings</name>
+        <permission_id>5000000002505</permission_id>
+    </permission>
+    <permission id="5000000002507" is_module="true">
+        <description>Permission to view/access reports</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>manage_reports</name>
+        <permission_id>5000000002507</permission_id>
+    </permission>
+    <permission id="5000000002509" is_module="true">
+        <description>Permission to view all jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>view_all_jobs</name>
+        <permission_id>5000000002509</permission_id>
+    </permission>
+    <permission id="5000000002511" is_module="true">
+        <description>Permission to update jobs in My Jobs tab</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>edit_my_jobs</name>
+        <permission_id>5000000002511</permission_id>
+    </permission>
+    <permission id="5000000002513" is_module="true">
+        <description>Permission to update others' jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>edit_others_jobs</name>
+        <permission_id>5000000002513</permission_id>
+    </permission>
+    <permission id="5000000002515" is_module="true">
+        <description>Permission to update the request/jobs created by myself</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>edit_requests</name>
+        <permission_id>5000000002515</permission_id>
+    </permission>
+    <permission id="5000000002517" is_module="true">
+        <description>Permission to delete jobs in MyJobs tab</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>delete_my_jobs</name>
+        <permission_id>5000000002517</permission_id>
+    </permission>
+    <permission id="5000000002519" is_module="true">
+        <description>Permission to delete jobs created by others</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>delete_others_jobs</name>
+        <permission_id>5000000002519</permission_id>
+    </permission>
+    <permission id="5000000002521" is_module="true">
+        <description>Permission to delete jobs created by me</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>delete_requests</name>
+        <permission_id>5000000002521</permission_id>
+    </permission>
+    <permission id="5000000002523" is_module="true">
+        <description>Permission to pickup the unassigned jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>pickup_jobs</name>
+        <permission_id>5000000002523</permission_id>
+    </permission>
+    <permission id="5000000002525" is_module="true">
+        <description>Permission to reassign my jobs to others</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>reassign_jobs</name>
+        <permission_id>5000000002525</permission_id>
+    </permission>
+    <permission id="5000000002527" is_module="true">
+        <description>Permission to assign jobs to others</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>assign_jobs</name>
+        <permission_id>5000000002527</permission_id>
+    </permission>
+    <permission id="5000000002529" is_module="true">
+        <description>Permission to update Team field in jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>assign_job_team</name>
+        <permission_id>5000000002529</permission_id>
+    </permission>
+    <permission id="5000000002531" is_module="true">
+        <description>Permission for blueprint preview in jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>manage_blueprint_preview</name>
+        <permission_id>5000000002531</permission_id>
+    </permission>
+    <permission id="5000000002533" is_module="true">
+        <description>Permission for Import jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>manage_import_jobs</name>
+        <permission_id>5000000002533</permission_id>
+    </permission>
+    <permission id="5000000002535" is_module="true">
+        <description>bp.profile.view_stage_history.desc</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>view_stage_history</name>
+        <permission_id>5000000002535</permission_id>
+    </permission>
+    <permission id="5000000002537" is_module="true">
+        <description>Permission for view audit logs for jobs module</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>audit_logs_jobs</name>
+        <permission_id>5000000002537</permission_id>
+    </permission>
+    <permission id="5000000002539" is_module="true">
+        <description>Permission for view audit logs for other than jobs module</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>audit_logs_others</name>
+        <permission_id>5000000002539</permission_id>
+    </permission>
+    <permission id="5000000002541" is_module="true">
+        <description>Permission for using credentials created by others</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>use_other_credentials</name>
+        <permission_id>5000000002541</permission_id>
+    </permission>
+    <permission id="5000000002543" is_module="true">
+        <description>Permission for view audit logs for users module(Reporting To only)</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>user_audit_logs</name>
+        <permission_id>5000000002543</permission_id>
+    </permission>
+    <permission id="5000000002545" is_module="true">
+        <description>Permission for view audit logs for users module(All Users)</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>user_audit_logs_others</name>
+        <permission_id>5000000002545</permission_id>
+    </permission>
+    <permission id="5000000002547" is_module="true">
+        <description>Permission for export audit for given view</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>audit_logs_export</name>
+        <permission_id>5000000002547</permission_id>
+    </permission>
+    <permission id="5000000002555" is_module="true">
+        <description>Permission to manage all circuits</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>manage_circuits</name>
+        <permission_id>5000000002555</permission_id>
+    </permission>
+    <permission id="5000000002557" is_module="true">
+        <description>Permission for Export jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>manage_export_jobs</name>
+        <permission_id>5000000002557</permission_id>
+    </permission>
+    <permission id="5000000002559" is_module="true">
+        <description>Permission to move jobs in My Jobs tab</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>move_my_jobs</name>
+        <permission_id>5000000002559</permission_id>
+    </permission>
+    <permission id="5000000002561" is_module="true">
+        <description>Permission to move others' jobs</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>move_others_jobs</name>
+        <permission_id>5000000002561</permission_id>
+    </permission>
+    <permission id="5000000002563" is_module="true">
+        <description>Permission to move the request/jobs created by myself</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>move_requests</name>
+        <permission_id>5000000002563</permission_id>
+    </permission>
+    <permission id="5000000004869" is_module="true">
+        <description>Permission for actions in orchestration tab</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>add_new_orchestration</name>
+        <permission_id>5000000004869</permission_id>
+    </permission>
+    <permission id="5000000004871" is_module="true">
+        <description>Permission to manage users in orchestration tab</description>
+        <is_layout_specific>false</is_layout_specific>
+        <name>manage_users</name>
+        <permission_id>5000000004871</permission_id>
+    </permission>
+    <permission id="5000000004873" is_module="true">
+        <description>Manage all permissions inside Orchestration</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>manage_orchestration</name>
+        <permission_id>5000000004873</permission_id>
+    </permission>
+    <permission id="5000000598177" is_module="true">
+        <description>Permission to view Stage Timeline</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>view_stage_timeline</name>
+        <permission_id>5000000598177</permission_id>
+    </permission>
+    <permission id="5000000598179" is_module="true">
+        <description>Permission to view Activity</description>
+        <is_layout_specific>true</is_layout_specific>
+        <name>view_activity</name>
+        <permission_id>5000000598179</permission_id>
+    </permission>
+</bp_export_data>

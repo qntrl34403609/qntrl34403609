@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <blueprint id="5000000005041" is_module="true">
+        <blueprint_id>5000000005041</blueprint_id>
+        <data>{"fromPort":"B","toPort":"T3","position":"-4 0","points":[23.85,37.4,23.85,47.4,23.85,48.7,23.850767,48.7,23.850767,50,23.850767,60]}</data>
+        <description/>
+        <is_default>false</is_default>
+        <is_enabled>true</is_enabled>
+        <is_published>true</is_published>
+        <layout_id>5000000004992</layout_id>
+        <name>Board testing 01_process_1</name>
+        <position>1</position>
+        <process_stage_map>
+            <process_stage_map_details>
+                <data>{"position":"10 460"}</data>
+                <is_start_stage>false</is_start_stage>
+                <process_id>5000000005041</process_id>
+                <stage_id>5000000004634</stage_id>
+            </process_stage_map_details>
+            <process_stage_map_details>
+                <data>{"position":"-23.966752715316975 60"}</data>
+                <is_start_stage>true</is_start_stage>
+                <process_id>5000000005041</process_id>
+                <stage_id>5000000002761</stage_id>
+            </process_stage_map_details>
+            <process_stage_map_details>
+                <data>{"position":"10 310"}</data>
+                <is_start_stage>false</is_start_stage>
+                <process_id>5000000005041</process_id>
+                <stage_id>5000000002764</stage_id>
+            </process_stage_map_details>
+            <process_stage_map_details>
+                <data>{"position":"292.9099307159354 102.26327944572748"}</data>
+                <is_start_stage>false</is_start_stage>
+                <process_id>5000000005041</process_id>
+                <stage_id>5000000004637</stage_id>
+            </process_stage_map_details>
+        </process_stage_map>
+        <status>1</status>
+        <transition>
+            <transition_details>
+                <data>{"toPort":"T3"}</data>
+                <des_stage_id>5000000004637</des_stage_id>
+                <is_global>false</is_global>
+                <name>move to On hold</name>
+                <perform_type>0</perform_type>
+                <process_id>5000000005041</process_id>
+                <tran_message_info/>
+                <transition_id>5000000005067</transition_id>
+                <transition_rule_map>
+                    <layout_id>5000000008036</layout_id>
+                    <rule_id>5000000005068</rule_id>
+                    <transition_id>5000000005067</transition_id>
+                </transition_rule_map>
+                <transition_source>
+                    <transition_source_details>
+                        <data>{"fromPort":"R1","segfr":"0.5","points":[71.666756,86.30792,81.666756,86.30792,348.5576,86.30792,348.5576,89.2856,348.5576,92.26328,348.5576,102.26328]}</data>
+                        <process_id>5000000005041</process_id>
+                        <src_stage_id>5000000002761</src_stage_id>
+                        <transition_id>5000000005067</transition_id>
+                    </transition_source_details>
+                </transition_source>
+                <transition_type>0</transition_type>
+            </transition_details>
+            <transition_details>
+                <data>{"toPort":"T3"}</data>
+                <des_stage_id>5000000004634</des_stage_id>
+                <is_global>false</is_global>
+                <name>move to Request closed</name>
+                <perform_type>0</perform_type>
+                <process_id>5000000005041</process_id>
+                <transition_id>5000000005077</transition_id>
+                <transition_rule_map>
+                    <rule_id>5000000005078</rule_id>
+                    <transition_id>5000000005077</transition_id>
+                </transition_rule_map>
+                <transition_source>
+                    <transition_source_details>
+                        <data>{"fromPort":"B3","segfr":"0.5","points":[76.14037,362.61584,76.14037,372.61584,76.14037,411.30792,89.1156,411.30792,89.1156,450,89.1156,460]}</data>
+                        <process_id>5000000005041</process_id>
+                        <src_stage_id>5000000002764</src_stage_id>
+                        <transition_id>5000000005077</transition_id>
+                    </transition_source_details>
+                </transition_source>
+                <transition_type>0</transition_type>
+            </transition_details>
+            <transition_details>
+                <data>{"toPort":"T3"}</data>
+                <des_stage_id>5000000002764</des_stage_id>
+                <is_global>false</is_global>
+                <name>move to In progress</name>
+                <perform_type>0</perform_type>
+                <process_id>5000000005041</process_id>
+                <transition_id>5000000005072</transition_id>
+                <transition_rule_map>
+                    <rule_id>5000000005073</rule_id>
+                    <transition_id>5000000005072</transition_id>
+                </transition_rule_map>
+                <transition_source>
+                    <transition_source_details>
+                        <data>{"fromPort":"L1","segfr":"0.5","points":[-23.966753,86.30792,-33.96675,86.30792,-36,86.30792,-36,220,76.14037,220,76.14037,300,76.14037,310]}</data>
+                        <process_id>5000000005041</process_id>
+                        <src_stage_id>5000000002761</src_stage_id>
+                        <transition_id>5000000005072</transition_id>
+                    </transition_source_details>
+                </transition_source>
+                <transition_type>0</transition_type>
+            </transition_details>
+            <transition_details>
+                <data>{"toPort":"R1"}</data>
+                <des_stage_id>5000000004634</des_stage_id>
+                <description/>
+                <is_global>false</is_global>
+                <name>comlete request</name>
+                <perform_type>0</perform_type>
+                <process_id>5000000005041</process_id>
+                <transition_id>5000000005082</transition_id>
+                <transition_rule_map>
+                    <rule_id>5000000005083</rule_id>
+                    <transition_id>5000000005082</transition_id>
+                </transition_rule_map>
+                <transition_source>
+                    <transition_source_details>
+                        <data>{"fromPort":"B3","segfr":"0.5","points":[348.5576,154.87912,348.5576,164.87912,348.5576,486.30792,263.393,486.30792,178.22841,486.30792,168.22841,486.30792]}</data>
+                        <process_id>5000000005041</process_id>
+                        <src_stage_id>5000000004637</src_stage_id>
+                        <transition_id>5000000005082</transition_id>
+                    </transition_source_details>
+                </transition_source>
+                <transition_type>0</transition_type>
+            </transition_details>
+        </transition>
+    </blueprint>
+</bp_export_data>

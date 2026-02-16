@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <reports id="5000000472017" is_module="true">
+        <chart_data>{"aggregate_column":"JOB_ID","aggregate_function":"count","chart_type":"vstackedbar","plotColumn_type":"userpick","plot_column":"RECORD_OWNER","groupby_column":"STAGE_ID"}</chart_data>
+        <description>Track the count of Cards assigned to individual users in an organization.</description>
+        <filter>{"timerangefilter":[{"condition":"in","column_name":"created","type":"time","column_value":"last365"}]}</filter>
+        <folder_id>5000000002681</folder_id>
+        <is_char_enabled>true</is_char_enabled>
+        <is_hiddedn>false</is_hiddedn>
+        <is_table_view_enabled>false</is_table_view_enabled>
+        <layout_id>5000000004875</layout_id>
+        <module>1</module>
+        <name>Card Distribution Chart1</name>
+        <report_id>5000000472017</report_id>
+        <report_type>1</report_type>
+    </reports>
+</bp_export_data>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <cluster id="5000000166017" is_module="true">
+        <cluster_id>5000000166017</cluster_id>
+        <created_by>5000000000005</created_by>
+        <created_on>1756901717235</created_on>
+        <is_enabled>true</is_enabled>
+        <modified_by>5000000000005</modified_by>
+        <modified_on>1756901717235</modified_on>
+        <name>test cluster</name>
+        <type>0</type>
+    </cluster>
+</bp_export_data>

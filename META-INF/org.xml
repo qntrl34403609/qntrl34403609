@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <export_type>0</export_type>
+    <org_id>5000000000001</org_id>
+    <module/>
+    <zoid>34403609</zoid>
+    <time>1771234144629</time>
+    <zuid>24335669</zuid>
+    <plan_name>Business</plan_name>
+    <company_properties id="5000000000001_APIKEY_CUSTOMFUNCTION">
+        <encrypt_value>3e04821e27ff5a56155fd45093d9514dd4d731d79b1a7180e35fb18f7beabc8133abf60b9a1a4f61bcfbadb8067c8061b42ccea1a5f8b68986a88decae54cdfdd9fd95e738e01ec494825444857718f0</encrypt_value>
+        <propert_name>APIKEY_CUSTOMFUNCTION</propert_name>
+        <property_value/>
+    </company_properties>
+    <company_properties id="5000000000001_CodexAT">
+        <encrypt_value>1003.78f2cc2a66da201006e5f174aef89111.6863319718a5fe56b63a766e16a73f0f</encrypt_value>
+        <propert_name>CodexAT</propert_name>
+        <property_value>1770689531835</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_CodexRT">
+        <encrypt_value>1003.b0c6c68ec56ff6ac531b271fbecc729a.0f26d5ad41f6ce6357539a1111d691dc</encrypt_value>
+        <propert_name>CodexRT</propert_name>
+        <property_value>5000000000005</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_CustomFunctionRT">
+        <encrypt_value>1003.713ba61d29dc15b63e72df8c41e77c78.37b7bf30a1ed6fa22da4f4f172c81b65</encrypt_value>
+        <propert_name>CustomFunctionRT</propert_name>
+        <property_value>5000000000005</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_after_signup_form">
+        <propert_name>after_signup_form</propert_name>
+        <property_value>4</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_bridge_manage_apikey">
+        <encrypt_value>1003.b0e39f06c6e8c05319d1ccf1d795219b.513e56e6008e018b7238d1c2cc4cee3c</encrypt_value>
+        <propert_name>bridge_manage_apikey</propert_name>
+        <property_value>5000000000005</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_bridge_registration_apikey">
+        <propert_name>bridge_registration_apikey</propert_name>
+        <property_value>1757327660268</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_code_integration">
+        <propert_name>code_integration</propert_name>
+        <property_value>{"ideUrl":"\"https://sathishsa-6276-8443.zcodecorp.in/portal/34403609/18000000002005\"","workspaceName":"\"production34403609\"","containerId":"18000000002005","workspaceId":"18000000002001"}</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_files_max_usage_size_in_gb">
+        <propert_name>files_max_usage_size_in_gb</propert_name>
+        <property_value>150</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_is_apigportal_created">
+        <propert_name>is_apigportal_created</propert_name>
+        <property_value>true</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_is_onboard_completed">
+        <encrypt_value/>
+        <propert_name>is_onboard_completed</propert_name>
+        <property_value>true</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_log_project_id">
+        <propert_name>log_project_id</propert_name>
+        <property_value>247000000694001_1562000000103001</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_payment_extrauser_banner">
+        <propert_name>payment_extrauser_banner</propert_name>
+        <property_value>1</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_plan_cancelled">
+        <encrypt_value/>
+        <propert_name>plan_cancelled</propert_name>
+        <property_value>0</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_product_name">
+        <encrypt_value/>
+        <propert_name>product_name</propert_name>
+        <property_value>qntrl</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_repo_admin_zuid">
+        <propert_name>repo_admin_zuid</propert_name>
+        <property_value>24335669</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_repo_group_id">
+        <propert_name>repo_group_id</propert_name>
+        <property_value>16273317</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_repo_group_name">
+        <propert_name>repo_group_name</propert_name>
+        <property_value>qntrl34403609</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_repo_portal_id">
+        <propert_name>repo_portal_id</propert_name>
+        <property_value>261862677</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_repo_portal_name">
+        <propert_name>repo_portal_name</propert_name>
+        <property_value>qntrl34403609</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_repo_repo_id">
+        <propert_name>repo_repo_id</propert_name>
+        <property_value>1158971952</property_value>
+    </company_properties>
+    <company_properties id="5000000000001_repo_repo_name">
+        <propert_name>repo_repo_name</propert_name>
+        <property_value>qntrl34403609</property_value>
+    </company_properties>
+    <company_plan_map id="5000000000001">
+        <action>0</action>
+        <frequency>0</frequency>
+        <is_free_plan>true</is_free_plan>
+        <istrial_enabled>false</istrial_enabled>
+        <payment_mode>0</payment_mode>
+        <payment_type>0</payment_type>
+        <previous_plan_status>2</previous_plan_status>
+        <ps_addon_id>1</ps_addon_id>
+        <recurring_retry_count>3</recurring_retry_count>
+        <store_plan_id>1</store_plan_id>
+        <trial_added_time>-1</trial_added_time>
+        <trial_expired_time>-1</trial_expired_time>
+        <trial_type>0</trial_type>
+        <trial_user_count>0</trial_user_count>
+        <user_addon_count>0</user_addon_count>
+        <user_addon_id>1</user_addon_id>
+        <user_count>0</user_count>
+        <wl_addon_id>1</wl_addon_id>
+    </company_plan_map>
+    <company_details id="5000000000001">
+        <ad_last_update>-1</ad_last_update>
+        <added_via>0</added_via>
+        <company_dept>0</company_dept>
+        <company_size>0</company_size>
+        <exclude_export_pii>true</exclude_export_pii>
+        <is_feature_limit_exceeds>false</is_feature_limit_exceeds>
+        <logaudit_pii>0</logaudit_pii>
+        <mask_pii>true</mask_pii>
+    </company_details>
+</bp_export_data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <reports id="5000000055055" is_module="true">
+        <chart_data>{"aggregate_column":"JOB_ID","aggregate_function":"count","chart_type":"verticalbar","plotColumn_type":"userpick","plot_column":"RECORD_OWNER"}</chart_data>
+        <description>Number of cards per assingee</description>
+        <filter>{}</filter>
+        <folder_id>5000000002679</folder_id>
+        <internal_name>assigned_cards</internal_name>
+        <is_char_enabled>false</is_char_enabled>
+        <is_hiddedn>true</is_hiddedn>
+        <is_table_view_enabled>true</is_table_view_enabled>
+        <layout_id>5000000055001</layout_id>
+        <module>1</module>
+        <name>bp.hiddenreport.assigned_jobs</name>
+        <report_id>5000000055055</report_id>
+        <report_type>1</report_type>
+    </reports>
+</bp_export_data>

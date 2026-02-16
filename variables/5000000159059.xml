@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <variables id="5000000159059" is_module="true">
+        <group_id>5000000002713</group_id>
+        <is_encrypted>false</is_encrypted>
+        <link_name>id_created_in_stage_1</link_name>
+        <name>id_created_in_stage</name>
+        <type>1</type>
+        <variable_id>5000000159059</variable_id>
+        <variable_tier_mapping>
+            <variable_tier_mapping_details>
+                <tier_id>5000000004951</tier_id>
+                <value>id_created_in_stage</value>
+                <variable_id>5000000159059</variable_id>
+            </variable_tier_mapping_details>
+            <variable_tier_mapping_details>
+                <tier_id>5000000004751</tier_id>
+                <value/>
+                <variable_id>5000000159059</variable_id>
+            </variable_tier_mapping_details>
+            <variable_tier_mapping_details>
+                <tier_id>5000000064005</tier_id>
+                <value>id_created_for dev in stage</value>
+                <variable_id>5000000159059</variable_id>
+            </variable_tier_mapping_details>
+        </variable_tier_mapping>
+    </variables>
+</bp_export_data>

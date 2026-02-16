@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <schedules id="5000000178015" is_module="true">
+        <dre_function_id>5000000177039</dre_function_id>
+        <entity_type>1</entity_type>
+        <execution_type>4</execution_type>
+        <is_active>true</is_active>
+        <name>another scheduler</name>
+        <properties>[{"payload":{},"schedule_data":{"workspace_id":"default_workspace","user_time_zone":"Asia/Kolkata","hour":"1","cf_id":5000000177039,"never_expires":true,"valid_start_date":1757500800000,"schedule_name":"another scheduler","repetition_type":"hourly"}}]</properties>
+        <rule_id>5000000178015</rule_id>
+        <sequence>1</sequence>
+    </schedules>
+</bp_export_data>

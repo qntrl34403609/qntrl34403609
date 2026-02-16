@@ -1,0 +1,4 @@
+void dre_script_sun_rise()
+{
+info "Hello sun rise !!!";
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <widget id="5000000004652" is_module="true">
+        <app_id>5000000004652</app_id>
+        <display_name>Zoho Cliq for Qntrl</display_name>
+        <is_enabled>false</is_enabled>
+        <properties>{"app_name" : "Zoho Cliq for Qntrl","app_type" : "3" , "description" : "Collaborate with your team from a single platform using Zoho Cliq for Qntrl"}</properties>
+        <status>0</status>
+        <type>1</type>
+    </widget>
+</bp_export_data>

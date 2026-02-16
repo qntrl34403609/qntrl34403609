@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <users id="5000000050011" is_module="true">
+        <confirmed_status>1</confirmed_status>
+        <display_name>Lemon</display_name>
+        <email_id>kaviraj.p+lemon@zohotest.com</email_id>
+        <first_name>Lemon</first_name>
+        <invitation_status>3</invitation_status>
+        <is_admin>0</is_admin>
+        <last_name>Rice</last_name>
+        <user_id>5000000050011</user_id>
+        <user_type>1</user_type>
+        <userprofile_map>
+            <userprofile_map_details>
+                <profile_id>5000000002501</profile_id>
+                <user_id>5000000050011</user_id>
+            </userprofile_map_details>
+        </userprofile_map>
+        <userrole_map>
+            <userrole_map_details>
+                <role_id>5000000121043</role_id>
+                <user_id>5000000050011</user_id>
+            </userrole_map_details>
+        </userrole_map>
+        <zuid>35036051</zuid>
+    </users>
+</bp_export_data>

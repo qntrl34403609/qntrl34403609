@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <custom_modules id="5000000002623" is_module="true">
+        <display_name>Jobs</display_name>
+        <module_id>5000000002623</module_id>
+        <module_type>0</module_type>
+        <name>jobs</name>
+        <name_custom_type>1</name_custom_type>
+        <plural_name>Jobs</plural_name>
+        <singular_name>Job</singular_name>
+        <web_tabs>
+            <web_tabs_details>
+                <layout_id>5000000060249</layout_id>
+                <module_id>5000000002623</module_id>
+                <name>Mail In Testinng</name>
+                <seq>3</seq>
+                <tab_id>5000000134009</tab_id>
+                <type>4</type>
+            </web_tabs_details>
+            <web_tabs_details>
+                <module_id>5000000002623</module_id>
+                <seq>1</seq>
+                <tab_id>5000000004670</tab_id>
+                <type>0</type>
+            </web_tabs_details>
+        </web_tabs>
+    </custom_modules>
+</bp_export_data>

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <service_icons id="5000000004310" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004310</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Procurement_a_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004313" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004313</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Procurement_b_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004316" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004316</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Product_Shipping_a_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004319" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004319</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Product_Shipping_b_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004322" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004322</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Quality_Control_a_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004325" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004325</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Quality_Control_b_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004328" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004328</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Work_Order_a_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004331" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004331</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Work_Order_b_operations</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>1</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004334" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004334</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Hiring_a_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004337" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004337</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Hiring_b_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004340" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004340</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-On_boarding_a_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004343" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004343</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-On_boarding_b_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004346" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004346</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Promotion_a_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004349" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004349</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Promotion_b_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004352" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004352</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Transfer_a_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004355" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004355</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Transfer_b_hr</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>2</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004358" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004358</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Asset_disposal_a_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004361" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004361</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Asset_disposal_b_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004364" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004364</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Asset_request_a_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004367" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004367</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Asset_request_b_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004370" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004370</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Provision_a_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004373" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004373</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Provision_b_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004376" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004376</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-User_Account_a_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004379" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004379</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-User_Account_b_it</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>3</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004382" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004382</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Business_Cards_Request_a_admin</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>4</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004385" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004385</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Business_Cards_Request_b_admin</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>4</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004388" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004388</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Travel_Request_a_admin</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>4</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004391" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004391</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Travel_Request_b_admin</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>4</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004394" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004394</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Visitor_Pass_a_admin</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>4</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004397" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004397</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Visitor_Pass_b_admin</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>4</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004400" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004400</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Employee_Loan_a_finance</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>5</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004403" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004403</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Employee_Loan_b_finance</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>5</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004406" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004406</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Expense_Approval_a_finance</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>5</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004409" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004409</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Expense_Approval_b_finance</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>5</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004412" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004412</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Vendor_Payment_a_finance</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>5</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004415" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004415</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Vendor_Payment_b_finance</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>5</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004418" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004418</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Blog_Post_a_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004421" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004421</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Blog_Post_b_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004424" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004424</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Customer_Survey_a_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004427" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004427</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Customer_Survey_b_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004430" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004430</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Case_Studies_a_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004433" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004433</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Case_Studies_b_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004436" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004436</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Webinars_a_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004439" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004439</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Webinars_b_marketing</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>6</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004442" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004442</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Contract_Management_a_legal</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004445" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004445</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Contract_Management_b_legal</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004448" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004448</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Land_Purchase_a_legal</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004451" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004451</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Land_Purchase_a_legal2</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004454" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004454</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Patents_a_legal</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004457" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004457</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Patents_b_legal</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004460" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004460</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Trademarking_a_legal</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004463" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004463</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Trademarking_b_legal</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>7</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004466" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004466</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Common-service_a_others</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>8</service_icon_category>
+    </service_icons>
+    <service_icons id="5000000004469" is_module="true">
+        <added_via>web</added_via>
+        <attachment_id>5000000004469</attachment_id>
+        <content_type>image/png</content_type>
+        <entity_type>2</entity_type>
+        <file_name>zoho-Common-service_b_others</file_name>
+        <file_size>0</file_size>
+        <service_icon_category>8</service_icon_category>
+    </service_icons>
+</bp_export_data>

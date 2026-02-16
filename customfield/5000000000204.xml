@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <customfield id="5000000000204" is_module="true">
+        <column_name>UDF_CHAR83</column_name>
+        <customfield_id>5000000000204</customfield_id>
+        <data_type>0</data_type>
+        <display_name>UDF_CHAR83</display_name>
+        <entity_type>1</entity_type>
+        <field_type>-1</field_type>
+        <is_encrypted>false</is_encrypted>
+        <is_pii>false</is_pii>
+        <is_reserved>false</is_reserved>
+        <is_subformfield>0</is_subformfield>
+        <table_name>BPJobFieldsValue</table_name>
+    </customfield>
+</bp_export_data>

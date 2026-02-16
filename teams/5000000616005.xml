@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <teams id="5000000616005" is_module="true">
+        <name>serverteam</name>
+        <team_id>5000000616005</team_id>
+        <userteam_map>
+            <userteam_map_details>
+                <team_id>5000000616005</team_id>
+                <user_id>5000000000005</user_id>
+            </userteam_map_details>
+            <userteam_map_details>
+                <team_id>5000000616005</team_id>
+                <user_id>5000000008005</user_id>
+            </userteam_map_details>
+        </userteam_map>
+    </teams>
+</bp_export_data>
