@@ -4,8 +4,9 @@
     <org_id>5000000000001</org_id>
     <module/>
     <zoid>34403609</zoid>
-    <time>1771584719955</time>
+    <time>1771585504302</time>
     <zuid>24335669</zuid>
+    <plan_name>Business</plan_name>
     <company_properties id="5000000000001_APIKEY_CUSTOMFUNCTION">
         <encrypt_value>3e04821e27ff5a56155fd45093d9514dd4d731d79b1a7180e35fb18f7beabc8133abf60b9a1a4f61bcfbadb8067c8061b42ccea1a5f8b68986a88decae54cdfdd9fd95e738e01ec494825444857718f0</encrypt_value>
         <propert_name>APIKEY_CUSTOMFUNCTION</propert_name>
@@ -104,7 +105,7 @@
     </company_properties>
     <company_properties id="5000000000001_sandbox_config_version">
         <propert_name>sandbox_config_version</propert_name>
-        <property_value>{"user_version":"2.2","sync_data_version":"2.2"}</property_value>
+        <property_value>{"user_version":"2.2","sync_data_version":"2.2","deploy_data_version":"2.2"}</property_value>
     </company_properties>
     <company_plan_map id="5000000000001">
         <action>0</action>
