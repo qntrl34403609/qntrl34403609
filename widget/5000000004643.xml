@@ -2,7 +2,7 @@
 <bp_export_data>
     <widget id="5000000004643" is_module="true">
         <app_id>5000000004643</app_id>
-        <display_name>Microsoft Teams for Qntrl </display_name>
+        <display_name>Microsoft Teams for Qntrl</display_name>
         <is_enabled>false</is_enabled>
         <properties>{"app_name" : "Microsoft Teams for Qntrl","app_type" : "0" , "description" : "Connect and collaborate with different teams in your organization."}</properties>
         <status>0</status>

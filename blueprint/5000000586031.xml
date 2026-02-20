@@ -56,17 +56,17 @@
                 <name>Again open</name>
                 <perform_type>0</perform_type>
                 <process_id>5000000586031</process_id>
-                <transition_id>6000000426040</transition_id>
+                <transition_id>5000000728061</transition_id>
                 <transition_rule_map>
-                    <rule_id>6000000426041</rule_id>
-                    <transition_id>6000000426040</transition_id>
+                    <rule_id>5000000728074</rule_id>
+                    <transition_id>5000000728061</transition_id>
                 </transition_rule_map>
                 <transition_source>
                     <transition_source_details>
                         <data>{"fromPort":"R1","points":[114.468315,186.35674,124.468315,186.35674,124.468315,86.356735,103.09858,86.356735,81.72885,86.356735,71.72885,86.356735]}</data>
                         <process_id>5000000586031</process_id>
                         <src_stage_id>5000000002776</src_stage_id>
-                        <transition_id>6000000426040</transition_id>
+                        <transition_id>5000000728061</transition_id>
                     </transition_source_details>
                 </transition_source>
                 <transition_type>0</transition_type>

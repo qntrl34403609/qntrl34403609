@@ -16,13 +16,13 @@
                             <customfield_id>5000000000008</customfield_id>
                             <customfield_value>testing</customfield_value>
                             <rule_id>5000000166052</rule_id>
-                            <rulefields_ids>6000000406004</rulefields_ids>
+                            <rulefields_ids>5000000728042</rulefields_ids>
                         </rule_action_fields_details>
                         <rule_action_fields_details>
                             <customfield_id>5000000000018</customfield_id>
                             <customfield_value>actiontime</customfield_value>
                             <rule_id>5000000166052</rule_id>
-                            <rulefields_ids>6000000406003</rulefields_ids>
+                            <rulefields_ids>5000000728043</rulefields_ids>
                         </rule_action_fields_details>
                     </rule_action_fields>
                     <rule_id>5000000166052</rule_id>

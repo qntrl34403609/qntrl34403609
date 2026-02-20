@@ -10,7 +10,7 @@
         <name>triggerwebhook_3_webservicerest</name>
         <properties>{"CFPARAMS":[]}</properties>
         <rule_script_mapping>
-            <ENTITY_TYPE>0</ENTITY_TYPE>
+            <ENTITY_TYPE>2</ENTITY_TYPE>
             <action_id>5000000468035</action_id>
             <script_id>5000000468037</script_id>
         </rule_script_mapping>

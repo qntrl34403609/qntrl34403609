@@ -11,7 +11,7 @@
         <name>table_delete_test_js</name>
         <properties>{"CFPARAMS":[],"CLIENT_CALLABLE":1,"EXECUTION_CONTEXT":0}</properties>
         <rule_script_mapping>
-            <ENTITY_TYPE>0</ENTITY_TYPE>
+            <ENTITY_TYPE>2</ENTITY_TYPE>
             <action_id>5000000574007</action_id>
             <script_id>5000000574009</script_id>
         </rule_script_mapping>

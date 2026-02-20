@@ -10,7 +10,7 @@
         <name>create_jobs_10_webservicerest</name>
         <properties>{"CFPARAMS":[]}</properties>
         <rule_script_mapping>
-            <ENTITY_TYPE>0</ENTITY_TYPE>
+            <ENTITY_TYPE>2</ENTITY_TYPE>
             <action_id>5000000488001</action_id>
             <script_id>5000000488003</script_id>
         </rule_script_mapping>

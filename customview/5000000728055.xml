@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
-    <customview id="6000000405260" is_module="true">
-        <customview_id>6000000405260</customview_id>
+    <customview id="5000000728055" is_module="true">
+        <customview_id>5000000728055</customview_id>
         <is_default>1</is_default>
         <is_shared>0</is_shared>
-        <layout_id>6000000405254</layout_id>
+        <layout_id>5000000728064</layout_id>
         <name>difftesting</name>
         <show_only_to_me>0</show_only_to_me>
         <type>1</type>

@@ -2,7 +2,7 @@
 <bp_export_data>
     <widget id="5000000004649" is_module="true">
         <app_id>5000000004649</app_id>
-        <display_name>Slack for Qntrl </display_name>
+        <display_name>Slack for Qntrl</display_name>
         <is_enabled>false</is_enabled>
         <properties>{"app_name" : "Slack for Qntrl ","app_type" : "2" , "description" : "Work on your jobs in Qntrl right from Slack."}</properties>
         <status>0</status>

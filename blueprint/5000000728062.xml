@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
-    <blueprint id="6000000405292" is_module="true">
-        <blueprint_id>6000000405292</blueprint_id>
+    <blueprint id="5000000728062" is_module="true">
+        <blueprint_id>5000000728062</blueprint_id>
         <data>{"fromPort":"B","toPort":"T3","position":"-4 0","points":[23.85,37.4,23.85,47.4,23.85,48.7,23.850765,48.7,23.850765,50,23.850765,60]}</data>
         <description/>
         <is_default>false</is_default>
         <is_enabled>true</is_enabled>
         <is_published>true</is_published>
-        <layout_id>6000000405254</layout_id>
+        <layout_id>5000000728064</layout_id>
         <name>difftesting_process_1</name>
         <position>1</position>
         <process_stage_map>
             <process_stage_map_details>
                 <data>{"position":"-23.94285012679305 60"}</data>
                 <is_start_stage>true</is_start_stage>
-                <process_id>6000000405292</process_id>
+                <process_id>5000000728062</process_id>
                 <stage_id>5000000002761</stage_id>
             </process_stage_map_details>
             <process_stage_map_details>
                 <data>{"position":"10 160"}</data>
                 <is_start_stage>false</is_start_stage>
-                <process_id>6000000405292</process_id>
+                <process_id>5000000728062</process_id>
                 <stage_id>5000000002776</stage_id>
             </process_stage_map_details>
         </process_stage_map>
@@ -32,18 +32,18 @@
                 <is_global>false</is_global>
                 <name>move to Closed</name>
                 <perform_type>0</perform_type>
-                <process_id>6000000405292</process_id>
-                <transition_id>6000000405306</transition_id>
+                <process_id>5000000728062</process_id>
+                <transition_id>5000000728063</transition_id>
                 <transition_rule_map>
-                    <rule_id>6000000405307</rule_id>
-                    <transition_id>6000000405306</transition_id>
+                    <rule_id>5000000728073</rule_id>
+                    <transition_id>5000000728063</transition_id>
                 </transition_rule_map>
                 <transition_source>
                     <transition_source_details>
                         <data>{"fromPort":"B3","points":[23.850765,112.553955,23.850765,122.553955,23.850765,136.27698,62.173664,136.27698,62.173664,150,62.173664,160]}</data>
-                        <process_id>6000000405292</process_id>
+                        <process_id>5000000728062</process_id>
                         <src_stage_id>5000000002761</src_stage_id>
-                        <transition_id>6000000405306</transition_id>
+                        <transition_id>5000000728063</transition_id>
                     </transition_source_details>
                 </transition_source>
                 <transition_type>0</transition_type>
