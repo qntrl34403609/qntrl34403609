@@ -7,6 +7,23 @@
         <table_fields>
             <table_fields_details>
                 <column_name>1</column_name>
+                <data_type>1</data_type>
+                <display_name>user_name</display_name>
+                <display_type>0</display_type>
+                <field_id>6000000410009</field_id>
+                <field_type>1</field_type>
+                <is_indexed>false</is_indexed>
+                <is_mandatory>false</is_mandatory>
+                <is_unique>false</is_unique>
+                <max_size>-1.0</max_size>
+                <min_size>-1.0</min_size>
+                <name_space>user_name</name_space>
+                <sequence>2</sequence>
+                <status>1</status>
+                <table_id>5000000445009</table_id>
+            </table_fields_details>
+            <table_fields_details>
+                <column_name>1</column_name>
                 <data_type>0</data_type>
                 <display_name>mail_id</display_name>
                 <display_type>0</display_type>

@@ -22,6 +22,23 @@
                 <status>1</status>
                 <table_id>5000000445017</table_id>
             </table_fields_details>
+            <table_fields_details>
+                <column_name>2</column_name>
+                <data_type>0</data_type>
+                <display_name>test_col2</display_name>
+                <display_type>0</display_type>
+                <field_id>6000000408019</field_id>
+                <field_type>0</field_type>
+                <is_indexed>false</is_indexed>
+                <is_mandatory>false</is_mandatory>
+                <is_unique>false</is_unique>
+                <max_size>-1.0</max_size>
+                <min_size>-1.0</min_size>
+                <name_space>test_col2</name_space>
+                <sequence>2</sequence>
+                <status>1</status>
+                <table_id>5000000445017</table_id>
+            </table_fields_details>
         </table_fields>
         <table_id>5000000445017</table_id>
         <table_stats>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
     <tables id="5000000148020" is_module="true">
-        <desc>user details</desc>
+        <desc>user details2</desc>
         <name>user details</name>
         <status>1</status>
         <table_fields>
@@ -19,6 +19,23 @@
                 <min_size>-1.0</min_size>
                 <name_space>join_date</name_space>
                 <sequence>4</sequence>
+                <status>1</status>
+                <table_id>5000000148020</table_id>
+            </table_fields_details>
+            <table_fields_details>
+                <column_name>5</column_name>
+                <data_type>2</data_type>
+                <display_name>deduction</display_name>
+                <display_type>0</display_type>
+                <field_id>6000000406015</field_id>
+                <field_type>5</field_type>
+                <is_indexed>false</is_indexed>
+                <is_mandatory>false</is_mandatory>
+                <is_unique>false</is_unique>
+                <max_size>-1.0</max_size>
+                <min_size>-1.0</min_size>
+                <name_space>deduction</name_space>
+                <sequence>7</sequence>
                 <status>1</status>
                 <table_id>5000000148020</table_id>
             </table_fields_details>
@@ -87,6 +104,23 @@
                 <min_size>-1.0</min_size>
                 <name_space>final_pay</name_space>
                 <sequence>6</sequence>
+                <status>1</status>
+                <table_id>5000000148020</table_id>
+            </table_fields_details>
+            <table_fields_details>
+                <column_name>6</column_name>
+                <data_type>2</data_type>
+                <display_name>net_pay</display_name>
+                <display_type>0</display_type>
+                <field_id>6000000440021</field_id>
+                <field_type>6</field_type>
+                <is_indexed>false</is_indexed>
+                <is_mandatory>false</is_mandatory>
+                <is_unique>false</is_unique>
+                <max_size>-1.0</max_size>
+                <min_size>-1.0</min_size>
+                <name_space>net_pay</name_space>
+                <sequence>8</sequence>
                 <status>1</status>
                 <table_id>5000000148020</table_id>
             </table_fields_details>
