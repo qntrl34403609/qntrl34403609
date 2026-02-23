@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <layout id="5000000902002" is_module="true">
+        <attachment_id>5000000004466</attachment_id>
+        <autonumber_entries>
+            <auto_id>5000000902006</auto_id>
+            <autonumber_generation>
+                <auto_id>5000000902006</auto_id>
+                <prefix>VOB</prefix>
+            </autonumber_generation>
+            <entity_type>2</entity_type>
+            <parent_entity_id>5000000902002</parent_entity_id>
+        </autonumber_entries>
+        <description>Draft layout for iterating vendor qualification and onboarding checkpoints.</description>
+        <is_active>true</is_active>
+        <is_email_in_enabled>false</is_email_in_enabled>
+        <layout_id>5000000902002</layout_id>
+        <layout_type>3</layout_type>
+        <name>Vendor Onboarding Board_Drafted</name>
+        <parent_layout_id>5000000902001</parent_layout_id>
+        <section>
+            <section_details>
+                <is_default>true</is_default>
+                <is_double_column>true</is_double_column>
+                <is_subform>false</is_subform>
+                <label_position>0</label_position>
+                <layout_id>5000000902002</layout_id>
+                <section_id>5000000902012</section_id>
+                <section_name>Card Details</section_name>
+                <sequence>1</sequence>
+                <subform_table>0</subform_table>
+            </section_details>
+        </section>
+    </layout>
+</bp_export_data>
