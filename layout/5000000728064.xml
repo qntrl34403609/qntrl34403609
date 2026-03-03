@@ -13,7 +13,7 @@
         </autonumber_entries>
         <description>Diff testing</description>
         <is_active>true</is_active>
-        <is_email_in_enabled>false</is_email_in_enabled>
+        <is_email_in_enabled>true</is_email_in_enabled>
         <layout_id>5000000728064</layout_id>
         <layout_picklist>
             <layout_picklist_details>
