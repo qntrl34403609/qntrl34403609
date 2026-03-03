@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <transitionrule id="6000000473087" is_module="true">
+        <is_active>true</is_active>
+        <name>Reopen Mail Request</name>
+        <rule_id>6000000473087</rule_id>
+    </transitionrule>
+</bp_export_data>

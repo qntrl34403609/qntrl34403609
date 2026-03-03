@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <dash_board id="6000000473107" is_module="true">
+        <dash_board_components>
+            <dash_board_components_details>
+                <component_id>6000000473109</component_id>
+                <dash_board_id>6000000473107</dash_board_id>
+                <description>Get the count of Cards that have passed through each transition.</description>
+                <entity_id>5000000004923</entity_id>
+                <entity_type>1</entity_type>
+                <extra_filter>{"layout_id":8000000288003,"criteria":[{"customfield_id":"8000000283106","condition":"in","type":"pick","column_value":"8000000288045"}],"pattern":"1"}</extra_filter>
+                <height>4</height>
+                <name>Blueprint Usage Report</name>
+                <width>6</width>
+                <x_position>0</x_position>
+                <y_position>5</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473111</component_id>
+                <dash_board_id>6000000473107</dash_board_id>
+                <entity_id>5000000002683</entity_id>
+                <entity_type>2</entity_type>
+                <extra_filter>{"layout_id":8000000288003}</extra_filter>
+                <height>4</height>
+                <name>bp.cv.all_jobs</name>
+                <width>12</width>
+                <x_position>0</x_position>
+                <y_position>1</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473110</component_id>
+                <dash_board_id>6000000473107</dash_board_id>
+                <description>Number of cards in start stages</description>
+                <entity_id>6000000473011</entity_id>
+                <entity_type>1</entity_type>
+                <height>1</height>
+                <name>bp.hiddenreport.created_jobs</name>
+                <width>3</width>
+                <x_position>0</x_position>
+                <y_position>0</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473108</component_id>
+                <dash_board_id>6000000473107</dash_board_id>
+                <description>Number of cards with overdue</description>
+                <entity_id>6000000473013</entity_id>
+                <entity_type>1</entity_type>
+                <height>1</height>
+                <name>bp.hiddenreport.overdue_jobs</name>
+                <width>3</width>
+                <x_position>9</x_position>
+                <y_position>0</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473113</component_id>
+                <dash_board_id>6000000473107</dash_board_id>
+                <description>Number of cards per assingee</description>
+                <entity_id>6000000473015</entity_id>
+                <entity_type>1</entity_type>
+                <height>4</height>
+                <name>bp.hiddenreport.assigned_jobs</name>
+                <width>6</width>
+                <x_position>6</x_position>
+                <y_position>5</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473112</component_id>
+                <dash_board_id>6000000473107</dash_board_id>
+                <description>Number of cards in closed stages</description>
+                <entity_id>6000000473014</entity_id>
+                <entity_type>1</entity_type>
+                <height>1</height>
+                <name>bp.hiddenreport.completed_jobs</name>
+                <width>3</width>
+                <x_position>6</x_position>
+                <y_position>0</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473114</component_id>
+                <dash_board_id>6000000473107</dash_board_id>
+                <description>Number of cards in open stages</description>
+                <entity_id>6000000473012</entity_id>
+                <entity_type>1</entity_type>
+                <height>1</height>
+                <name>bp.hiddenreport.inprogress_jobs</name>
+                <width>3</width>
+                <x_position>3</x_position>
+                <y_position>0</y_position>
+            </dash_board_components_details>
+        </dash_board_components>
+        <dash_board_id>6000000473107</dash_board_id>
+        <dash_board_name>Dashboard</dash_board_name>
+        <is_default>true</is_default>
+        <layout_id>6000000473067</layout_id>
+        <org_id>5000000000001</org_id>
+        <sharing_type>1</sharing_type>
+    </dash_board>
+</bp_export_data>

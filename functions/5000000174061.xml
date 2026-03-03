@@ -9,7 +9,7 @@
         <link_name>clean_data_4</link_name>
         <modified_on>1765358125969</modified_on>
         <name>clean_data</name>
-        <properties>{"CFPARAMS":[],"CLIENT_CALLABLE":1,"EXECUTION_CONTEXT":0,"published_id":"5000000174071"}</properties>
+        <properties>{"published_id":"5000000174071","CFPARAMS":[],"CLIENT_CALLABLE":1,"EXECUTION_CONTEXT":0}</properties>
         <rule_script_mapping>
             <ENTITY_TYPE>2</ENTITY_TYPE>
             <action_id>5000000174061</action_id>
