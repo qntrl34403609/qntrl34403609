@@ -1,0 +1,4 @@
+void new_finction_01(string arg1, string arg2)
+{
+info "Hellloooo";
+}
