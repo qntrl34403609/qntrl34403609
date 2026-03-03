@@ -19,20 +19,20 @@
             <emailin_job_field_mapping_details>
                 <config_id>5000000590009</config_id>
                 <created_by>5000000000005</created_by>
-                <created_on>1767334413680</created_on>
-                <customfield_id>5000000000008</customfield_id>
-                <email_field>MAILBODY</email_field>
-                <mapping_id>5000000590013</mapping_id>
+                <created_on>1767334413681</created_on>
+                <customfield_id>5000000000006</customfield_id>
+                <email_field>MAILSUBJECT</email_field>
+                <mapping_id>5000000590014</mapping_id>
                 <modified_by>5000000000005</modified_by>
                 <modified_on>1767345332846</modified_on>
             </emailin_job_field_mapping_details>
             <emailin_job_field_mapping_details>
                 <config_id>5000000590009</config_id>
                 <created_by>5000000000005</created_by>
-                <created_on>1767334413681</created_on>
-                <customfield_id>5000000000006</customfield_id>
-                <email_field>MAILSUBJECT</email_field>
-                <mapping_id>5000000590014</mapping_id>
+                <created_on>1767334413680</created_on>
+                <customfield_id>5000000000008</customfield_id>
+                <email_field>MAILBODY</email_field>
+                <mapping_id>5000000590013</mapping_id>
                 <modified_by>5000000000005</modified_by>
                 <modified_on>1767345332846</modified_on>
             </emailin_job_field_mapping_details>
