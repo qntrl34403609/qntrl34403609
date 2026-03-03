@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <schedules id="6000000455007" is_module="true">
+        <circuit_function_id>zcode1_15</circuit_function_id>
+        <entity_type>1</entity_type>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <name>zcode changes</name>
+        <properties>[{"payload":{},"schedule_data":{"workspace_id":"default_workspace","user_time_zone":"Asia/Kolkata","circuit_function_id":"zcode1_15","is_business_hours":false,"valid_start_date":1771842060000,"execution_cycles":1000,"schedule_name":"zcode changes","repetition_type":"daily"}}]</properties>
+        <rule_id>6000000455007</rule_id>
+        <sequence>1</sequence>
+    </schedules>
+</bp_export_data>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
     <functions id="5000000598011" is_module="true">
-        <content>{"file_id":"5000000598011"}</content>
         <customfunction_id>5000000598011</customfunction_id>
         <description>test</description>
         <dre_function_id>71042000000010001</dre_function_id>

@@ -5,10 +5,12 @@
         <execution_type>0</execution_type>
         <is_active>true</is_active>
         <name>BR3</name>
+        <properties>{"CRITERIA":"{}"}</properties>
         <rule_crule_mappping>
             <rule_crule_mappping_details>
                 <criteriarule>
                     <name>Criteria 1</name>
+                    <properties>{}</properties>
                     <rule_customfunction_mapping>
                         <rule_customfunction_mapping_details>
                             <entity_id>5000000598011</entity_id>
@@ -20,6 +22,10 @@
                     <rule_webhook_mapping>
                         <rule_webhook_mapping_details>
                             <entity_id>5000000598007</entity_id>
+                            <rule_id>5000000617137</rule_id>
+                        </rule_webhook_mapping_details>
+                        <rule_webhook_mapping_details>
+                            <entity_id>6000000473021</entity_id>
                             <rule_id>5000000617137</rule_id>
                         </rule_webhook_mapping_details>
                     </rule_webhook_mapping>

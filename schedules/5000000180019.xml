@@ -14,6 +14,14 @@
                 <action_id>5000000180019</action_id>
                 <config_id>5000000180021</config_id>
                 <is_draft>true</is_draft>
+                <mapping_id>6000000473243</mapping_id>
+                <sequence>1</sequence>
+                <type>2</type>
+            </connected_cards_map_details>
+            <connected_cards_map_details>
+                <action_id>5000000180019</action_id>
+                <config_id>5000000180021</config_id>
+                <is_draft>true</is_draft>
                 <mapping_id>5000000180035</mapping_id>
                 <sequence>1</sequence>
                 <type>2</type>
