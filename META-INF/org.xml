@@ -2,8 +2,8 @@
 <bp_export_data>
     <export_type>1</export_type>
     <org_id>6000000000001</org_id>
-    <module>reports,emailtemplate,webhook,functions,credentials,profile,businessrule,blueprint,layout,transitionrule,emailalert,stage,schedules,orchestration_user,connected_cards_standalone,dash_board,orchestration_requestors,customview</module>
+    <module>tables,schedules</module>
     <zoid>34403703</zoid>
-    <time>1772520882540</time>
+    <time>1772533234240</time>
     <zuid>24335669</zuid>
 </bp_export_data>
