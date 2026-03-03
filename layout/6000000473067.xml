@@ -13,7 +13,7 @@
         </autonumber_entries>
         <description>Mail Testing</description>
         <is_active>true</is_active>
-        <is_email_in_enabled>false</is_email_in_enabled>
+        <is_email_in_enabled>true</is_email_in_enabled>
         <layout_id>6000000473067</layout_id>
         <layout_picklist>
             <layout_picklist_details>
@@ -56,13 +56,13 @@
         <layout_properties>
             <layout_properties_details>
                 <layout_id>6000000473067</layout_id>
-                <property_name>layout_job_plural_name</property_name>
-                <property_value>Records</property_value>
+                <property_name>layout_job_singular_name</property_name>
+                <property_value>Record</property_value>
             </layout_properties_details>
             <layout_properties_details>
                 <layout_id>6000000473067</layout_id>
-                <property_name>layout_job_singular_name</property_name>
-                <property_value>Record</property_value>
+                <property_name>layout_job_plural_name</property_name>
+                <property_value>Records</property_value>
             </layout_properties_details>
         </layout_properties>
         <layout_type>1</layout_type>
