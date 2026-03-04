@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
-    <emailtemplate id="9000000276222" is_module="true">
-        <content>{"file_id":"9000000276222"}</content>
-        <emailtemplate_id>9000000276222</emailtemplate_id>
+    <emailtemplate id="6000000484040" is_module="true">
+        <content>{"file_id":"6000000484040"}</content>
+        <emailtemplate_id>6000000484040</emailtemplate_id>
         <entity_type>2</entity_type>
         <execution_type>0</execution_type>
         <is_active>true</is_active>
