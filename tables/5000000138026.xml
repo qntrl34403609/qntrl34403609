@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
     <tables id="5000000138026" is_module="true">
-        <desc>New table testing</desc>
+        <desc>New table testing1</desc>
         <name>New table testing</name>
         <status>1</status>
         <table_fields>
             <table_fields_details>
-                <column_name>1</column_name>
+                <column_name>2</column_name>
                 <data_type>2</data_type>
                 <display_name>test2</display_name>
                 <display_type>0</display_type>
@@ -23,7 +23,7 @@
                 <table_id>5000000138026</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>3</column_name>
+                <column_name>4</column_name>
                 <data_type>0</data_type>
                 <display_name>test3</display_name>
                 <display_type>0</display_type>
@@ -40,7 +40,7 @@
                 <table_id>5000000138026</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>1</column_name>
+                <column_name>5</column_name>
                 <data_type>0</data_type>
                 <display_name>test0</display_name>
                 <display_type>0</display_type>
@@ -57,7 +57,7 @@
                 <table_id>5000000138026</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>2</column_name>
+                <column_name>6</column_name>
                 <data_type>0</data_type>
                 <display_name>test1</display_name>
                 <display_type>0</display_type>
