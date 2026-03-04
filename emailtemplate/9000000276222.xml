@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <emailtemplate id="9000000276222" is_module="true">
+        <content>{"file_id":"9000000276222"}</content>
+        <emailtemplate_id>9000000276222</emailtemplate_id>
+        <entity_type>2</entity_type>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <link_name>emailtemplate_03042026_1_1</link_name>
+        <modified_on>1772625053097</modified_on>
+        <name>_EmailTemplate_03-04-2026_1</name>
+        <properties>{"DIRECT_ATTACHMENTS":"[9000000276218]","CRM_CONTENT":"true","MAIL_MERGE_TEMPLATES":"[]","RECENT_ATTACHMENTS":"false","INLINE_ATTACHMENTS":"[9000000276216]","SUBJECT":"Vanakkam"}</properties>
+        <workspace_id>5000000002661</workspace_id>
+    </emailtemplate>
+</bp_export_data>
