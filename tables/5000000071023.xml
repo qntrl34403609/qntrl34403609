@@ -6,7 +6,7 @@
         <status>1</status>
         <table_fields>
             <table_fields_details>
-                <column_name>1</column_name>
+                <column_name>2</column_name>
                 <data_type>0</data_type>
                 <display_name>new1</display_name>
                 <display_type>0</display_type>
@@ -23,7 +23,7 @@
                 <table_id>5000000071023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>2</column_name>
+                <column_name>1</column_name>
                 <data_type>0</data_type>
                 <display_name>clear</display_name>
                 <display_type>0</display_type>
@@ -40,7 +40,7 @@
                 <table_id>5000000071023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>3</column_name>
+                <column_name>6</column_name>
                 <data_type>0</data_type>
                 <display_name>whatanew</display_name>
                 <display_type>0</display_type>
@@ -57,7 +57,7 @@
                 <table_id>5000000071023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>5</column_name>
+                <column_name>4</column_name>
                 <data_type>0</data_type>
                 <display_name>newAgain</display_name>
                 <display_type>0</display_type>
@@ -74,7 +74,7 @@
                 <table_id>5000000071023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>4</column_name>
+                <column_name>2</column_name>
                 <data_type>2</data_type>
                 <display_name>whonew</display_name>
                 <display_type>0</display_type>
@@ -91,7 +91,7 @@
                 <table_id>5000000071023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>6</column_name>
+                <column_name>3</column_name>
                 <data_type>2</data_type>
                 <display_name>Againnew</display_name>
                 <display_type>0</display_type>
@@ -108,7 +108,7 @@
                 <table_id>5000000071023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>4</column_name>
+                <column_name>3</column_name>
                 <data_type>0</data_type>
                 <display_name>data45</display_name>
                 <display_type>0</display_type>
@@ -125,7 +125,7 @@
                 <table_id>5000000071023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>2</column_name>
+                <column_name>1</column_name>
                 <data_type>2</data_type>
                 <display_name>newnow</display_name>
                 <display_type>0</display_type>

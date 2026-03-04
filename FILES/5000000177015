@@ -1,4 +1,0 @@
-void test_variable8(string arg1)
-{
-info arg1;
-}

@@ -1,4 +1,0 @@
-void test_dre_function()
-{
-info "test";
-}
