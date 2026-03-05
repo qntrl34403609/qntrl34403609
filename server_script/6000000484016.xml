@@ -29,8 +29,8 @@
         </server_script_details>
         <server_script_properties>
             <server_script_properties_details>
-                <property_name>transaction_count</property_name>
-                <property_value>0</property_value>
+                <property_name>logger_type</property_name>
+                <property_value>5</property_value>
                 <script_id>6000000484016</script_id>
             </server_script_properties_details>
             <server_script_properties_details>
@@ -39,8 +39,8 @@
                 <script_id>6000000484016</script_id>
             </server_script_properties_details>
             <server_script_properties_details>
-                <property_name>logger_type</property_name>
-                <property_value>5</property_value>
+                <property_name>transaction_count</property_name>
+                <property_value>0</property_value>
                 <script_id>6000000484016</script_id>
             </server_script_properties_details>
         </server_script_properties>
