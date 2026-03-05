@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
-    <export_type>0</export_type>
+    <export_type>1</export_type>
     <org_id>6000000000001</org_id>
-    <module/>
+    <module>cluster,tables,schedules</module>
     <zoid>34403703</zoid>
-    <time>1772696340250</time>
+    <time>1772709846102</time>
     <zuid>24335669</zuid>
 </bp_export_data>
