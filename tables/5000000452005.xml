@@ -6,7 +6,7 @@
         <status>1</status>
         <table_fields>
             <table_fields_details>
-                <column_name>6</column_name>
+                <column_name>7</column_name>
                 <data_type>0</data_type>
                 <display_name>data6</display_name>
                 <display_type>0</display_type>
@@ -23,7 +23,7 @@
                 <table_id>5000000452005</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>5</column_name>
+                <column_name>8</column_name>
                 <data_type>0</data_type>
                 <display_name>data5</display_name>
                 <display_type>0</display_type>
@@ -40,7 +40,7 @@
                 <table_id>5000000452005</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>1</column_name>
+                <column_name>9</column_name>
                 <data_type>0</data_type>
                 <display_name>data1</display_name>
                 <display_type>0</display_type>
@@ -57,7 +57,7 @@
                 <table_id>5000000452005</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>2</column_name>
+                <column_name>10</column_name>
                 <data_type>0</data_type>
                 <display_name>data2</display_name>
                 <display_type>0</display_type>
@@ -74,7 +74,7 @@
                 <table_id>5000000452005</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>4</column_name>
+                <column_name>11</column_name>
                 <data_type>0</data_type>
                 <display_name>data4</display_name>
                 <display_type>0</display_type>
@@ -91,9 +91,9 @@
                 <table_id>5000000452005</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>3</column_name>
+                <column_name>12</column_name>
                 <data_type>0</data_type>
-                <display_name>data3</display_name>
+                <display_name>data9</display_name>
                 <display_type>0</display_type>
                 <field_id>5000000452011</field_id>
                 <field_type>0</field_type>
@@ -102,7 +102,7 @@
                 <is_unique>false</is_unique>
                 <max_size>-1.0</max_size>
                 <min_size>-1.0</min_size>
-                <name_space>data3</name_space>
+                <name_space>data9</name_space>
                 <sequence>2</sequence>
                 <status>1</status>
                 <table_id>5000000452005</table_id>
