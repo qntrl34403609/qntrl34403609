@@ -1,0 +1,4 @@
+void dre_function_01()
+{
+info "testing dre";
+}

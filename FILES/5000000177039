@@ -1,0 +1,4 @@
+void another_cf_9()
+{
+info "Hello";
+}

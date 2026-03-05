@@ -3,18 +3,6 @@
     <dash_board id="6000000473115" is_module="true">
         <dash_board_components>
             <dash_board_components_details>
-                <component_id>6000000473121</component_id>
-                <dash_board_id>6000000473115</dash_board_id>
-                <description>Number of cards in closed stages</description>
-                <entity_id>6000000473019</entity_id>
-                <entity_type>1</entity_type>
-                <height>1</height>
-                <name>bp.hiddenreport.completed_jobs</name>
-                <width>3</width>
-                <x_position>6</x_position>
-                <y_position>0</y_position>
-            </dash_board_components_details>
-            <dash_board_components_details>
                 <component_id>6000000473120</component_id>
                 <dash_board_id>6000000473115</dash_board_id>
                 <description>Number of cards per assingee</description>
@@ -27,15 +15,15 @@
                 <y_position>5</y_position>
             </dash_board_components_details>
             <dash_board_components_details>
-                <component_id>6000000473118</component_id>
+                <component_id>6000000473121</component_id>
                 <dash_board_id>6000000473115</dash_board_id>
-                <description>Number of cards in start stages</description>
-                <entity_id>6000000473016</entity_id>
+                <description>Number of cards in closed stages</description>
+                <entity_id>6000000473019</entity_id>
                 <entity_type>1</entity_type>
                 <height>1</height>
-                <name>bp.hiddenreport.created_jobs</name>
+                <name>bp.hiddenreport.completed_jobs</name>
                 <width>3</width>
-                <x_position>0</x_position>
+                <x_position>6</x_position>
                 <y_position>0</y_position>
             </dash_board_components_details>
             <dash_board_components_details>
@@ -48,6 +36,18 @@
                 <name>bp.hiddenreport.inprogress_jobs</name>
                 <width>3</width>
                 <x_position>3</x_position>
+                <y_position>0</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473118</component_id>
+                <dash_board_id>6000000473115</dash_board_id>
+                <description>Number of cards in start stages</description>
+                <entity_id>6000000473016</entity_id>
+                <entity_type>1</entity_type>
+                <height>1</height>
+                <name>bp.hiddenreport.created_jobs</name>
+                <width>3</width>
+                <x_position>0</x_position>
                 <y_position>0</y_position>
             </dash_board_components_details>
             <dash_board_components_details>
