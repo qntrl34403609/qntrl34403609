@@ -27,18 +27,6 @@
                 <y_position>0</y_position>
             </dash_board_components_details>
             <dash_board_components_details>
-                <component_id>6000000473117</component_id>
-                <dash_board_id>6000000473115</dash_board_id>
-                <description>Number of cards in open stages</description>
-                <entity_id>6000000473017</entity_id>
-                <entity_type>1</entity_type>
-                <height>1</height>
-                <name>bp.hiddenreport.inprogress_jobs</name>
-                <width>3</width>
-                <x_position>3</x_position>
-                <y_position>0</y_position>
-            </dash_board_components_details>
-            <dash_board_components_details>
                 <component_id>6000000473118</component_id>
                 <dash_board_id>6000000473115</dash_board_id>
                 <description>Number of cards in start stages</description>
@@ -48,6 +36,18 @@
                 <name>bp.hiddenreport.created_jobs</name>
                 <width>3</width>
                 <x_position>0</x_position>
+                <y_position>0</y_position>
+            </dash_board_components_details>
+            <dash_board_components_details>
+                <component_id>6000000473117</component_id>
+                <dash_board_id>6000000473115</dash_board_id>
+                <description>Number of cards in open stages</description>
+                <entity_id>6000000473017</entity_id>
+                <entity_type>1</entity_type>
+                <height>1</height>
+                <name>bp.hiddenreport.inprogress_jobs</name>
+                <width>3</width>
+                <x_position>3</x_position>
                 <y_position>0</y_position>
             </dash_board_components_details>
             <dash_board_components_details>
