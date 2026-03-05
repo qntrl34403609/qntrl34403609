@@ -6,7 +6,7 @@
         <status>1</status>
         <table_fields>
             <table_fields_details>
-                <column_name>1</column_name>
+                <column_name>2</column_name>
                 <data_type>2</data_type>
                 <display_name>emp_id</display_name>
                 <display_type>0</display_type>
@@ -23,7 +23,7 @@
                 <table_id>5000000444015</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>2</column_name>
+                <column_name>1</column_name>
                 <data_type>0</data_type>
                 <display_name>emp_name</display_name>
                 <display_type>0</display_type>
@@ -40,7 +40,7 @@
                 <table_id>5000000444015</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>2</column_name>
+                <column_name>1</column_name>
                 <data_type>2</data_type>
                 <display_name>emp_salary</display_name>
                 <display_type>0</display_type>
