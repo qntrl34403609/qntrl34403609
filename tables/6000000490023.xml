@@ -6,7 +6,7 @@
         <status>1</status>
         <table_fields>
             <table_fields_details>
-                <column_name>1</column_name>
+                <column_name>3</column_name>
                 <data_type>0</data_type>
                 <display_name>user_name</display_name>
                 <display_type>0</display_type>
@@ -23,7 +23,7 @@
                 <table_id>6000000490023</table_id>
             </table_fields_details>
             <table_fields_details>
-                <column_name>2</column_name>
+                <column_name>4</column_name>
                 <data_type>0</data_type>
                 <display_name>password</display_name>
                 <display_type>0</display_type>
@@ -41,6 +41,23 @@
             </table_fields_details>
             <table_fields_details>
                 <column_name>1</column_name>
+                <data_type>0</data_type>
+                <display_name>role</display_name>
+                <display_type>0</display_type>
+                <field_id>9000000296506</field_id>
+                <field_type>0</field_type>
+                <is_indexed>false</is_indexed>
+                <is_mandatory>false</is_mandatory>
+                <is_unique>false</is_unique>
+                <max_size>-1.0</max_size>
+                <min_size>-1.0</min_size>
+                <name_space>role</name_space>
+                <sequence>4</sequence>
+                <status>1</status>
+                <table_id>6000000490023</table_id>
+            </table_fields_details>
+            <table_fields_details>
+                <column_name>2</column_name>
                 <data_type>2</data_type>
                 <display_name>user_id</display_name>
                 <display_type>0</display_type>
@@ -59,7 +76,7 @@
         </table_fields>
         <table_id>6000000490023</table_id>
         <table_stats>
-            <records>4</records>
+            <records>8</records>
             <stats_id>6000000490031</stats_id>
             <table_id>6000000490023</table_id>
             <total_records>-1</total_records>
