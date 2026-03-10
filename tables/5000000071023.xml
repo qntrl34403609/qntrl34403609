@@ -42,7 +42,7 @@
             <table_fields_details>
                 <column_name>10</column_name>
                 <data_type>0</data_type>
-                <display_name>whatanew</display_name>
+                <display_name>whatanew1</display_name>
                 <display_type>0</display_type>
                 <field_id>6000000479014</field_id>
                 <field_type>0</field_type>
@@ -51,7 +51,7 @@
                 <is_unique>false</is_unique>
                 <max_size>-1.0</max_size>
                 <min_size>-1.0</min_size>
-                <name_space>whatanew</name_space>
+                <name_space>whatanew1</name_space>
                 <sequence>4</sequence>
                 <status>1</status>
                 <table_id>5000000071023</table_id>
