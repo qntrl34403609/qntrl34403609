@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <script_variables id="5000000783015" is_module="true">
+        <active>true</active>
+        <description/>
+        <is_placeholder>false</is_placeholder>
+        <scope>0</scope>
+        <script_variable_map>
+            <entity_id>0</entity_id>
+            <entity_type>0</entity_type>
+            <value>100</value>
+            <variable_id>5000000783015</variable_id>
+        </script_variable_map>
+        <variable_id>5000000783015</variable_id>
+        <variable_name>new_vaialble</variable_name>
+    </script_variables>
+</bp_export_data>

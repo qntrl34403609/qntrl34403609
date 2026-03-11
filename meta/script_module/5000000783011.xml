@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <script_module id="5000000783011" is_module="true">
+        <description/>
+        <is_active>true</is_active>
+        <is_global>false</is_global>
+        <is_published>true</is_published>
+        <language>0</language>
+        <link_name>qserver_module_19</link_name>
+        <modified_on>1773226878731</modified_on>
+        <name>qserver_module</name>
+        <published_content>{"file_id":"qserver_module_19_published.js"}</published_content>
+        <script_id>5000000783011</script_id>
+        <ui_type>0</ui_type>
+    </script_module>
+</bp_export_data>
