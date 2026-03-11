@@ -56,13 +56,13 @@
         <layout_properties>
             <layout_properties_details>
                 <layout_id>5000000728064</layout_id>
-                <property_name>layout_job_plural_name</property_name>
-                <property_value>diffs</property_value>
+                <property_name>layout_job_singular_name</property_name>
+                <property_value>diff</property_value>
             </layout_properties_details>
             <layout_properties_details>
                 <layout_id>5000000728064</layout_id>
-                <property_name>layout_job_singular_name</property_name>
-                <property_value>diff</property_value>
+                <property_name>layout_job_plural_name</property_name>
+                <property_value>diffs</property_value>
             </layout_properties_details>
         </layout_properties>
         <layout_type>1</layout_type>

@@ -1,0 +1,1 @@
+{"whiteListedConnections":[],"connectors":[],"whiteListedDomains":[],"service":"ORCHESTLY","cspDomains":{"connect-src":[]},"storage":false,"locale":["en"],"config":[],"modules":{"widgets":[{"name":"Orchestly Widget","icon":"/app/images/orchestly_icon.svg","logo":"/app/images/orchestly_icon.svg","location":"job.detail.rightpanel","url":"/app/orchestly-app.html"}]}}

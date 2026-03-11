@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <widget id="5000000786001" is_module="true">
+        <app_id>5000000786001</app_id>
+        <auth_level>3</auth_level>
+        <content>{"widget_id":"test_widget.zip"}</content>
+        <display_name>test_widget</display_name>
+        <hashkey>d391aa66fe6c907bae209ae98292306afb3980bc511d02725d43bf6e03f1b6b7</hashkey>
+        <is_enabled>true</is_enabled>
+        <manifest>{"whiteListedConnections":[],"connectors":[],"whiteListedDomains":[],"service":"ORCHESTLY","cspDomains":{"connect-src":[]},"storage":false,"locale":["en"],"config":[],"modules":{"widgets":[{"name":"Orchestly Widget","icon":"/app/images/orchestly_icon.svg","logo":"/app/images/orchestly_icon.svg","location":"job.detail.rightpanel","url":"/app/orchestly-app.html"}]}}</manifest>
+        <properties>{"description":""}</properties>
+        <status>0</status>
+        <type>2</type>
+        <version>1.0</version>
+        <widget_modified>true</widget_modified>
+    </widget>
+</bp_export_data>
