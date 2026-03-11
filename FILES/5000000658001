@@ -1,8 +1,0 @@
-{
-	"Standalone JS Testing": {
-		"type": "function",
-		"next": "End",
-		"start": true,
-		"function_id": "standalone_js_testing_1"
-	}
-}

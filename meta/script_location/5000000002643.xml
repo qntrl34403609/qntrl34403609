@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<bp_export_data>
-    <script_location id="5000000002643" is_module="true">
-        <location_id>5000000002643</location_id>
-        <module_id>5000000002623</module_id>
-        <name>bp.serverscriptlocations.transition_before</name>
-    </script_location>
-</bp_export_data>

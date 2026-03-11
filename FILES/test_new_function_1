@@ -1,0 +1,4 @@
+void Test_New_Function()
+{
+info "Diff Management";
+}

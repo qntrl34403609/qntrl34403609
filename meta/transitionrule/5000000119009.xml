@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<bp_export_data>
-    <transitionrule id="5000000119009" is_module="true">
-        <is_active>true</is_active>
-        <name>goto cas1</name>
-        <rule_id>5000000119009</rule_id>
-    </transitionrule>
-</bp_export_data>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <businessrule id="9000000313330" is_module="true">
+        <description>Business rule for diff management</description>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <name>Diff Business rule</name>
+        <rule_crule_mappping>
+            <rule_crule_mappping_details>
+                <criteriarule>
+                    <name>Criteria 1</name>
+                    <properties>{"CRITERIA":"{\"criteria\":[{\"customfield_id\":\"5000000000012\",\"condition\":\"in\",\"column_value\":\"5000000000005\"}],\"pattern\":\"1\"}"}</properties>
+                    <rule_action_fields>
+                        <rule_action_fields_details>
+                            <customfield_id>5000000000018</customfield_id>
+                            <customfield_value>cf:5000000000440</customfield_value>
+                            <rule_id>9000000313334</rule_id>
+                            <rulefields_ids>9000000313336</rulefields_ids>
+                        </rule_action_fields_details>
+                        <rule_action_fields_details>
+                            <customfield_id>5000000000014</customfield_id>
+                            <customfield_value>5000000048053</customfield_value>
+                            <rule_id>9000000313334</rule_id>
+                            <rulefields_ids>9000000313337</rulefields_ids>
+                        </rule_action_fields_details>
+                    </rule_action_fields>
+                    <rule_alert_mapping>
+                        <rule_alert_mapping_details>
+                            <entity_id>5000000616011</entity_id>
+                            <rule_id>9000000313334</rule_id>
+                        </rule_alert_mapping_details>
+                    </rule_alert_mapping>
+                    <rule_customfunction_mapping>
+                        <rule_customfunction_mapping_details>
+                            <entity_id>9000000313322</entity_id>
+                            <execution_type>0</execution_type>
+                            <rule_id>9000000313334</rule_id>
+                        </rule_customfunction_mapping_details>
+                    </rule_customfunction_mapping>
+                    <rule_id>9000000313334</rule_id>
+                    <sequence>1</sequence>
+                </criteriarule>
+                <entity_id>9000000313334</entity_id>
+                <rule_id>9000000313330</rule_id>
+            </rule_crule_mappping_details>
+        </rule_crule_mappping>
+        <rule_id>9000000313330</rule_id>
+        <rule_service_mapping>
+            <rule_service_mapping_details>
+                <layout_id>5000000004875</layout_id>
+                <rule_id>9000000313330</rule_id>
+            </rule_service_mapping_details>
+        </rule_service_mapping>
+        <sequence>4</sequence>
+    </businessrule>
+</bp_export_data>
