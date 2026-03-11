@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <bp_export_data>
-    <variables id="9000000306019" is_module="true">
+    <variables id="6000000498041" is_module="true">
         <group_id>5000000159056</group_id>
         <is_encrypted>false</is_encrypted>
         <link_name>team_mail_id_1</link_name>
         <name>team_mail_id</name>
         <type>1</type>
-        <variable_id>9000000306019</variable_id>
+        <variable_id>6000000498041</variable_id>
         <variable_tier_mapping>
-            <variable_tier_mapping_details>
-                <tier_id>5000000004751</tier_id>
-                <value>kaviraj.p@zohotest.com</value>
-                <variable_id>9000000306019</variable_id>
-            </variable_tier_mapping_details>
             <variable_tier_mapping_details>
                 <tier_id>5000000004951</tier_id>
                 <value>kaviraj.p+1@zohotest.com</value>
-                <variable_id>9000000306019</variable_id>
+                <variable_id>6000000498041</variable_id>
+            </variable_tier_mapping_details>
+            <variable_tier_mapping_details>
+                <tier_id>5000000004751</tier_id>
+                <value>kaviraj.p@zohotest.com</value>
+                <variable_id>6000000498041</variable_id>
             </variable_tier_mapping_details>
             <variable_tier_mapping_details>
                 <tier_id>5000000064005</tier_id>
                 <value>kaviraj.p+2@zohotest.com</value>
-                <variable_id>9000000306019</variable_id>
+                <variable_id>6000000498041</variable_id>
             </variable_tier_mapping_details>
         </variable_tier_mapping>
     </variables>
