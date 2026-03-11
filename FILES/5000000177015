@@ -1,4 +1,4 @@
-void test_variable(string arg1)
+void test_variable8(string arg1)
 {
 info arg1;
 }

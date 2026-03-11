@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <server_script id="6000000484016" is_module="true">
+        <description/>
+        <is_active>true</is_active>
+        <is_global>false</is_global>
+        <is_published>true</is_published>
+        <language>0</language>
+        <layout_id>5000000004875</layout_id>
+        <link_name>codex1_1</link_name>
+        <modified_on>1772617338843</modified_on>
+        <name>codex1</name>
+        <published_content>{"file_id":"6000000484016_published"}</published_content>
+        <script_id>6000000484016</script_id>
+        <script_location_map>
+            <script_location_map_details>
+                <auto_id>6000000484017</auto_id>
+                <location_id>5000000002641</location_id>
+                <script_id>6000000484016</script_id>
+            </script_location_map_details>
+        </script_location_map>
+        <script_modified>true</script_modified>
+        <server_script_details>
+            <action_type>1</action_type>
+            <client_callable>false</client_callable>
+            <execution_context>0</execution_context>
+            <execution_order>0</execution_order>
+            <script_id>6000000484016</script_id>
+        </server_script_details>
+        <server_script_properties>
+            <server_script_properties_details>
+                <property_name>logger_type</property_name>
+                <property_value>5</property_value>
+                <script_id>6000000484016</script_id>
+            </server_script_properties_details>
+            <server_script_properties_details>
+                <property_name>transaction_count</property_name>
+                <property_value>0</property_value>
+                <script_id>6000000484016</script_id>
+            </server_script_properties_details>
+            <server_script_properties_details>
+                <property_name>sdk_call_count_per_transaction</property_name>
+                <property_value>0</property_value>
+                <script_id>6000000484016</script_id>
+            </server_script_properties_details>
+        </server_script_properties>
+        <ui_type>0</ui_type>
+        <workspace_id>5000000002661</workspace_id>
+    </server_script>
+</bp_export_data>
