@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <functions id="5000000783031" is_module="true">
+        <content>{"file_id":"python_testing_22.zip"}</content>
+        <customfunction_id>5000000783031</customfunction_id>
+        <description/>
+        <dre_function_id>7688000000003015</dre_function_id>
+        <entity_type>2</entity_type>
+        <execution_type>4</execution_type>
+        <function_modified>true</function_modified>
+        <is_active>true</is_active>
+        <link_name>python_testing_22</link_name>
+        <modified_on>1773227597891</modified_on>
+        <name>Python_TESTING</name>
+        <properties>{"CFPARAMS":[],"CLIENT_CALLABLE":0,"published_id":"NzY4ODAwMDAwMDAwMjA0MA\u003d\u003d"}</properties>
+        <status>2</status>
+        <workspace_id>5000000002661</workspace_id>
+    </functions>
+</bp_export_data>
