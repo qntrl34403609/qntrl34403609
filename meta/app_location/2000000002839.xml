@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <app_location id="2000000002839" is_module="true">
+        <location>2</location>
+        <location_id>2000000002839</location_id>
+        <location_name>job.detail.attachment</location_name>
+        <module>1</module>
+        <page>2</page>
+    </app_location>
+</bp_export_data>

@@ -1,0 +1,46 @@
+{
+	"Pass": {
+		"start": true,
+		"type": "pass",
+		"next": "Branch"
+	},
+	"Branch": {
+		"type": "branch",
+		"next": "End",
+		"branches": [
+			{
+				"condition": "$.key1 == 'value1'",
+				"next": "Wait 3 S"
+			}
+		]
+	},
+	"Wait 3 S": {
+		"type": "wait",
+		"next": "Parallel Wait",
+		"duration": 3
+	},
+	"Parallel Wait": {
+		"type": "parallel",
+		"next": "End",
+		"paths": [
+			{
+				"name": "Wait 1",
+				"root": "Wait 1"
+			},
+			{
+				"name": "Wait 2",
+				"root": "Wait 2"
+			}
+		]
+	},
+	"Wait 1": {
+		"type": "wait",
+		"next": "End",
+		"duration": 3
+	},
+	"Wait 2": {
+		"type": "wait",
+		"next": "End",
+		"duration": 3
+	}
+}

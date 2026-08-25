@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <transitionrule id="2000000003033" is_module="true">
+        <created_by>2000000000003</created_by>
+        <created_on>1782881797987</created_on>
+        <is_active>true</is_active>
+        <modified_by>2000000000003</modified_by>
+        <modified_on>1782881797987</modified_on>
+        <name>move to Closed</name>
+        <rule_id>2000000003033</rule_id>
+    </transitionrule>
+</bp_export_data>

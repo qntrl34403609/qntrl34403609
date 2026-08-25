@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <qb_module id="2000000003097" is_module="true">
+        <custom_module_type>1</custom_module_type>
+        <description>Executes soap requests to external applications</description>
+        <is_custom_module>false</is_custom_module>
+        <is_enabled>true</is_enabled>
+        <link_name>soap_message</link_name>
+        <main_class>com.zoho.qntrl.bridge.qntrl_modules.soap_message.SoapMessageImpl</main_class>
+        <meta_validation>false</meta_validation>
+        <modified_on>1776755388438</modified_on>
+        <module_id>2000000003097</module_id>
+        <name>Soap Message</name>
+        <qb_module_versions>
+            <qb_module_versions_details>
+                <content>{"file_id":"2000000003098"}</content>
+                <content_type>application/zip</content_type>
+                <file_id>7746462000000003012</file_id>
+                <is_enabled>true</is_enabled>
+                <module_id>2000000003097</module_id>
+                <name>soap_message.zip</name>
+                <size>138532</size>
+                <version>2</version>
+                <version_id>2000000003098</version_id>
+            </qb_module_versions_details>
+        </qb_module_versions>
+        <schema_registry_id>2000000003096</schema_registry_id>
+        <service_id>2000000003089</service_id>
+        <zfs_folder_id>7746462000000004006</zfs_folder_id>
+    </qb_module>
+</bp_export_data>

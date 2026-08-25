@@ -1,0 +1,82 @@
+{
+	"State 1": {
+		"type": "branch",
+		"next": "End",
+		"start": true,
+		"branches": [
+			{
+				"condition": "$.key2== 'value2'",
+				"next": "Sub Circuit"
+			}
+		]
+	},
+	"Sub Circuit": {
+		"type": "parallel",
+		"next": "End",
+		"paths": [
+			{
+				"name": "Circuit1",
+				"root": "Circuit1"
+			},
+			{
+				"name": "Circuit2",
+				"root": "Circuit2"
+			},
+			{
+				"name": "Circuit3",
+				"root": "Circuit3"
+			},
+			{
+				"name": "Circuit4",
+				"root": "Circuit4"
+			},
+			{
+				"name": "Circuit5",
+				"root": "Circuit5"
+			},
+			{
+				"name": "Circuit6",
+				"root": "Circuit6"
+			},
+			{
+				"name": "Circuit7",
+				"root": "Circuit7"
+			}
+		]
+	},
+	"Circuit1": {
+		"type": "circuit",
+		"next": "End",
+		"circuit_id": "base_circuit_2"
+	},
+	"Circuit2": {
+		"type": "circuit",
+		"next": "End",
+		"circuit_id": "base_circuit_2"
+	},
+	"Circuit3": {
+		"type": "circuit",
+		"next": "End",
+		"circuit_id": "base_circuit_2"
+	},
+	"Circuit4": {
+		"type": "circuit",
+		"next": "End",
+		"circuit_id": "base_circuit_2"
+	},
+	"Circuit5": {
+		"type": "circuit",
+		"next": "End",
+		"circuit_id": "base_circuit_2"
+	},
+	"Circuit6": {
+		"type": "circuit",
+		"next": "End",
+		"circuit_id": "base_circuit_2"
+	},
+	"Circuit7": {
+		"type": "circuit",
+		"next": "End",
+		"circuit_id": "base_circuit_2"
+	}
+}

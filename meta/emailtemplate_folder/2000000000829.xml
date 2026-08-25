@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <emailtemplate_folder id="2000000000829" is_module="true">
+        <description>default system email templates folder</description>
+        <folder_id>2000000000829</folder_id>
+        <folder_type>2</folder_type>
+        <is_default>true</is_default>
+        <name>System Emails</name>
+    </emailtemplate_folder>
+</bp_export_data>

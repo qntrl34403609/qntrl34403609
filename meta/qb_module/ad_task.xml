@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <qb_module id="2000000003082" is_module="true">
+        <custom_module_type>1</custom_module_type>
+        <description>Accesses Active Directory and performs required operations.</description>
+        <is_custom_module>false</is_custom_module>
+        <is_enabled>true</is_enabled>
+        <link_name>ad_task</link_name>
+        <main_class>com.zoho.qntrl.bridge.native_modules.ldap_task.LDAPTaskImpl</main_class>
+        <meta_validation>false</meta_validation>
+        <modified_on>1776755379458</modified_on>
+        <module_id>2000000003082</module_id>
+        <name>AD Engine</name>
+        <qb_module_versions>
+            <qb_module_versions_details>
+                <content>{"file_id":"2000000003083"}</content>
+                <content_type>application/zip</content_type>
+                <file_id>7746462000000002006</file_id>
+                <is_enabled>true</is_enabled>
+                <module_id>2000000003082</module_id>
+                <name>ldap_task.zip</name>
+                <size>4155341</size>
+                <version>2</version>
+                <version_id>2000000003083</version_id>
+            </qb_module_versions_details>
+        </qb_module_versions>
+        <schema_registry_id>2000000003081</schema_registry_id>
+        <service_id>2000000003062</service_id>
+        <zfs_folder_id>7746462000000003008</zfs_folder_id>
+    </qb_module>
+</bp_export_data>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <qb_module id="2000000003093" is_module="true">
+        <custom_module_type>1</custom_module_type>
+        <description>Transfers files between Qntrl and remote machine/between remote machines within the network.</description>
+        <is_custom_module>false</is_custom_module>
+        <is_enabled>true</is_enabled>
+        <link_name>file_task</link_name>
+        <main_class>com.zoho.qntrl.bridge.qntrl_modules.file_task.SFTPTaskImpl</main_class>
+        <meta_validation>false</meta_validation>
+        <modified_on>1776755396912</modified_on>
+        <module_id>2000000003093</module_id>
+        <name>File Management</name>
+        <qb_module_versions>
+            <qb_module_versions_details>
+                <content>{"file_id":"2000000003094"}</content>
+                <content_type>application/zip</content_type>
+                <file_id>7746462000000003011</file_id>
+                <is_enabled>true</is_enabled>
+                <module_id>2000000003093</module_id>
+                <name>file_task.zip</name>
+                <size>295816</size>
+                <version>2</version>
+                <version_id>2000000003094</version_id>
+            </qb_module_versions_details>
+        </qb_module_versions>
+        <schema_registry_id>2000000003092</schema_registry_id>
+        <service_id>2000000003089</service_id>
+        <zfs_folder_id>7746462000000004005</zfs_folder_id>
+    </qb_module>
+</bp_export_data>

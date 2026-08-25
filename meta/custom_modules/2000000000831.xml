@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <custom_modules id="2000000000831" is_module="true">
+        <display_name>Layouts</display_name>
+        <module_id>2000000000831</module_id>
+        <module_type>0</module_type>
+        <name>layouts</name>
+        <name_custom_type>1</name_custom_type>
+        <plural_name>Layouts</plural_name>
+        <singular_name>Layout</singular_name>
+    </custom_modules>
+</bp_export_data>

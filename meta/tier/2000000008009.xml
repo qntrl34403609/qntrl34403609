@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <tier id="2000000008009" is_module="true">
+        <parent_tier_id>2000000008007</parent_tier_id>
+        <tier_description>Testing and Development environment used to do testing and development purpose, its not pure testing nor pure development environment</tier_description>
+        <tier_id>2000000008009</tier_id>
+        <tier_name>Testing &amp; Dev Environment</tier_name>
+        <type>2</type>
+    </tier>
+</bp_export_data>

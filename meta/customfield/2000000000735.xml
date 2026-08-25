@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <customfield id="2000000000735" is_module="true">
+        <column_name>UDF_TEXT9</column_name>
+        <created_by>-1</created_by>
+        <created_on>1782881765486</created_on>
+        <customfield_id>2000000000735</customfield_id>
+        <data_type>3</data_type>
+        <display_name>UDF_TEXT9</display_name>
+        <entity_type>1</entity_type>
+        <field_type>1</field_type>
+        <is_encrypted>false</is_encrypted>
+        <is_pii>false</is_pii>
+        <is_reserved>false</is_reserved>
+        <is_subformfield>1</is_subformfield>
+        <modified_by>-1</modified_by>
+        <modified_on>1782881765486</modified_on>
+    </customfield>
+</bp_export_data>

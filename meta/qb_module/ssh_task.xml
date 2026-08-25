@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <qb_module id="2000000003074" is_module="true">
+        <custom_module_type>1</custom_module_type>
+        <description>Executes commands and scripts in local or remote machines.</description>
+        <is_custom_module>false</is_custom_module>
+        <is_enabled>true</is_enabled>
+        <link_name>ssh_task</link_name>
+        <main_class>com.zoho.qntrl.bridge.native_modules.ssh_task.SSHTaskImpl</main_class>
+        <meta_validation>false</meta_validation>
+        <modified_on>1776755443273</modified_on>
+        <module_id>2000000003074</module_id>
+        <name>SSH Engine</name>
+        <qb_module_versions>
+            <qb_module_versions_details>
+                <content>{"file_id":"2000000003075"}</content>
+                <content_type>application/zip</content_type>
+                <file_id>7746462000000002004</file_id>
+                <is_enabled>true</is_enabled>
+                <module_id>2000000003074</module_id>
+                <name>ssh_task.zip</name>
+                <size>280669</size>
+                <version>2</version>
+                <version_id>2000000003075</version_id>
+            </qb_module_versions_details>
+        </qb_module_versions>
+        <schema_registry_id>2000000003073</schema_registry_id>
+        <service_id>2000000003062</service_id>
+        <zfs_folder_id>7746462000000003006</zfs_folder_id>
+    </qb_module>
+</bp_export_data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <customfield id="2000000000552" is_module="true">
+        <column_name>UDF_PKL61</column_name>
+        <created_by>-1</created_by>
+        <created_on>1782881765486</created_on>
+        <customfield_id>2000000000552</customfield_id>
+        <data_type>0</data_type>
+        <display_name>UDF_PKL61</display_name>
+        <entity_type>1</entity_type>
+        <field_type>2</field_type>
+        <is_encrypted>false</is_encrypted>
+        <is_pii>false</is_pii>
+        <is_reserved>false</is_reserved>
+        <is_subformfield>0</is_subformfield>
+        <modified_by>-1</modified_by>
+        <modified_on>1782881765486</modified_on>
+        <table_name>BPJobFieldsValue2</table_name>
+    </customfield>
+</bp_export_data>

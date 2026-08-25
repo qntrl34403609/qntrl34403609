@@ -1,0 +1,7 @@
+{
+	"Pass State": {
+		"start": true,
+		"type": "pass",
+		"next": "End"
+	}
+}

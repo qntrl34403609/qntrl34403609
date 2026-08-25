@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <custom_modules id="2000000000833" is_module="true">
+        <display_name>Reports</display_name>
+        <module_id>2000000000833</module_id>
+        <module_type>0</module_type>
+        <name>reports</name>
+        <name_custom_type>0</name_custom_type>
+        <plural_name>Reports</plural_name>
+        <singular_name>Report</singular_name>
+        <web_tabs>
+            <web_tabs_details>
+                <module_id>2000000000833</module_id>
+                <seq>2</seq>
+                <tab_id>2000000002909</tab_id>
+                <type>0</type>
+            </web_tabs_details>
+        </web_tabs>
+    </custom_modules>
+</bp_export_data>

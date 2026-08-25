@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <emailtemplate id="2000000002995" is_module="true">
+        <emailtemplate_id>2000000002995</emailtemplate_id>
+        <entity_type>-1</entity_type>
+        <execution_type>4</execution_type>
+        <folder_id>2000000000829</folder_id>
+        <is_active>true</is_active>
+        <link_name>email_notification_for_new_comments_4</link_name>
+        <modified_on>-1</modified_on>
+        <name>Email notification for new comments</name>
+        <properties>{"DEFAULT_EVENT_TYPE":"4","SUBJECT":"A new comment is added to the Card {0}"}</properties>
+        <workspace_id>2000000000857</workspace_id>
+    </emailtemplate>
+</bp_export_data>

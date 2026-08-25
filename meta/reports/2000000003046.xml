@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <reports id="2000000003046" is_module="true">
+        <chart_data>{"aggregate_column":"JOB_ID","aggregate_function":"count","chart_type":"verticalbar","plotColumn_type":"no_of_time_in_transition","plot_column":"no_of_time_in_transition"}</chart_data>
+        <description>Get the count of Cards that have passed through each transition.</description>
+        <filter>{"criteria":[{"customfield_id":"2000000000016","condition":"in","type":"pick","column_value":"2000000003034"}],"pattern":"1"}</filter>
+        <folder_id>2000000002999</folder_id>
+        <is_char_enabled>true</is_char_enabled>
+        <is_hiddedn>false</is_hiddedn>
+        <is_table_view_enabled>false</is_table_view_enabled>
+        <layout_id>2000000003019</layout_id>
+        <module>1</module>
+        <name>Blueprint Usage Report</name>
+        <report_id>2000000003046</report_id>
+        <report_type>4</report_type>
+    </reports>
+</bp_export_data>

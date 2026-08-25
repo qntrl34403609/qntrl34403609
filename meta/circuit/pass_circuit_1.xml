@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <circuit id="2000000015002" is_module="true">
+        <circuit_id>2000000015002</circuit_id>
+        <circuit_map>
+            <circuit_id>2000000015002</circuit_id>
+            <definition_file_id>7746462000000006001</definition_file_id>
+        </circuit_map>
+        <content>{"file_id":"2000000015002"}</content>
+        <description>Testing pass circuit</description>
+        <is_active>true</is_active>
+        <link_name>pass_circuit_1</link_name>
+        <modified_on>1784806340649</modified_on>
+        <name>Pass Circuit</name>
+        <qc_state>
+            <qc_state_details>
+                <configuration>{"name":"Pass State","type":"pass","next":"End","start":true}</configuration>
+                <entity_type>1</entity_type>
+                <name>Pass State</name>
+                <resource_id>2000000015002</resource_id>
+                <state_id>2000000015005</state_id>
+                <state_type>pass</state_type>
+            </qc_state_details>
+        </qc_state>
+        <status>1</status>
+        <workspace_id>2000000000857</workspace_id>
+    </circuit>
+</bp_export_data>

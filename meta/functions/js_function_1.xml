@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <functions id="2000000020002" is_module="true">
+        <created_by>2000000000003</created_by>
+        <created_on>1785921837895</created_on>
+        <customfunction_id>2000000020002</customfunction_id>
+        <description/>
+        <entity_type>2</entity_type>
+        <execution_type>1</execution_type>
+        <is_active>true</is_active>
+        <link_name>js_function_1</link_name>
+        <modified_by>2000000000003</modified_by>
+        <modified_on>1785922869307</modified_on>
+        <name>js_function</name>
+        <properties>{"CFPARAMS":[],"CLIENT_CALLABLE":1,"EXECUTION_CONTEXT":0}</properties>
+        <rule_script_mapping>
+            <ENTITY_TYPE>0</ENTITY_TYPE>
+            <action_id>2000000020002</action_id>
+            <script_id>2000000020003</script_id>
+        </rule_script_mapping>
+        <status>1</status>
+        <workspace_id>2000000000857</workspace_id>
+    </functions>
+</bp_export_data>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <widget id="2000000002899" is_module="true">
+        <app_id>2000000002899</app_id>
+        <display_name>Microsft Azure</display_name>
+        <is_enabled>false</is_enabled>
+        <properties>{"app_name" : "Microsft Azure","app_type" : "6" , "description" : "Complete your Azure user and group provision tasks in circuits by authenticating it"}</properties>
+        <status>0</status>
+        <type>1</type>
+    </widget>
+</bp_export_data>

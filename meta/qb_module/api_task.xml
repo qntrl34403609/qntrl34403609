@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <qb_module id="2000000003066" is_module="true">
+        <custom_module_type>1</custom_module_type>
+        <description>Executes internal and external api</description>
+        <is_custom_module>false</is_custom_module>
+        <is_enabled>true</is_enabled>
+        <link_name>api_task</link_name>
+        <main_class>com.zoho.qntrl.bridge.native_modules.api_task.RestAPITaskImpl</main_class>
+        <meta_validation>false</meta_validation>
+        <modified_on>1776754116843</modified_on>
+        <module_id>2000000003066</module_id>
+        <name>Task Engine</name>
+        <qb_module_versions>
+            <qb_module_versions_details>
+                <content>{"file_id":"2000000003067"}</content>
+                <content_type>application/zip</content_type>
+                <file_id>7746462000000003004</file_id>
+                <is_enabled>true</is_enabled>
+                <module_id>2000000003066</module_id>
+                <name>api_task.zip</name>
+                <size>877961</size>
+                <version>2</version>
+                <version_id>2000000003067</version_id>
+            </qb_module_versions_details>
+        </qb_module_versions>
+        <schema_registry_id>2000000003065</schema_registry_id>
+        <service_id>2000000003062</service_id>
+        <zfs_folder_id>7746462000000004003</zfs_folder_id>
+    </qb_module>
+</bp_export_data>

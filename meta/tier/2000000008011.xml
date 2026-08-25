@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <tier id="2000000008011" is_module="true">
+        <parent_tier_id>2000000008009</parent_tier_id>
+        <tier_description>Development environment used for pure development purpose</tier_description>
+        <tier_id>2000000008011</tier_id>
+        <tier_name>Development Environment</tier_name>
+        <type>2</type>
+    </tier>
+</bp_export_data>

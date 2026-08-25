@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <stage id="2000000003005" is_module="true">
+        <color>status_col2</color>
+        <created_by>2000000000003</created_by>
+        <created_on>1782881765486</created_on>
+        <is_published>true</is_published>
+        <modified_by>2000000000003</modified_by>
+        <modified_on>1782881765486</modified_on>
+        <name>Approved</name>
+        <stage_id>2000000003005</stage_id>
+        <type>true</type>
+    </stage>
+</bp_export_data>

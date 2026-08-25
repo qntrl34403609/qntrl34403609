@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <cluster id="2000000011017" is_module="true">
+        <cluster_id>2000000011017</cluster_id>
+        <created_by>2000000000003</created_by>
+        <created_on>1783427339135</created_on>
+        <is_enabled>true</is_enabled>
+        <link_name>loadbalancer_1</link_name>
+        <modified_by>2000000000003</modified_by>
+        <modified_on>1783427339135</modified_on>
+        <name>LoadBalancer</name>
+        <type>1</type>
+    </cluster>
+</bp_export_data>

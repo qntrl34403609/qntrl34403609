@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <events id="2000000002945" is_module="true">
+        <action_type>0</action_type>
+        <event_id>2000000002945</event_id>
+        <identifier>delete</identifier>
+        <modified_on>-1</modified_on>
+        <name>bp.msevents.delete</name>
+        <org_id>2000000000001</org_id>
+        <status>1</status>
+        <type>0</type>
+    </events>
+</bp_export_data>

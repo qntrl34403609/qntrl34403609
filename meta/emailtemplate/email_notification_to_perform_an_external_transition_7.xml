@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <emailtemplate id="2000000002998" is_module="true">
+        <emailtemplate_id>2000000002998</emailtemplate_id>
+        <entity_type>-1</entity_type>
+        <execution_type>7</execution_type>
+        <folder_id>2000000000829</folder_id>
+        <is_active>true</is_active>
+        <link_name>email_notification_to_perform_an_external_transition_7</link_name>
+        <modified_on>-1</modified_on>
+        <name>Email notification to perform an external transition</name>
+        <properties>{"DEFAULT_EVENT_TYPE":"7","SUBJECT":"Please perform the transition in the Card {0}"}</properties>
+        <workspace_id>2000000000857</workspace_id>
+    </emailtemplate>
+</bp_export_data>

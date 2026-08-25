@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <circuit id="2000000021004" is_module="true">
+        <circuit_id>2000000021004</circuit_id>
+        <circuit_map>
+            <circuit_id>2000000021004</circuit_id>
+            <definition_file_id>7746462000000005019</definition_file_id>
+        </circuit_map>
+        <content>{"file_id":"2000000021004"}</content>
+        <description/>
+        <is_active>true</is_active>
+        <link_name>base_circuit_2</link_name>
+        <modified_on>1785923396763</modified_on>
+        <name>Base Circuit</name>
+        <qc_state>
+            <qc_state_details>
+                <configuration>{"name":"Pass","type":"pass","next":"Branch","start":true}</configuration>
+                <entity_type>1</entity_type>
+                <name>Pass</name>
+                <resource_id>2000000021004</resource_id>
+                <state_id>2000000021019</state_id>
+                <state_type>pass</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Parallel Wait","type":"parallel","next":"End","paths":[{"name":"Wait 1","root":"Wait 1"},{"name":"Wait 2","root":"Wait 2"}]}</configuration>
+                <entity_type>1</entity_type>
+                <name>Parallel Wait</name>
+                <resource_id>2000000021004</resource_id>
+                <state_id>2000000021022</state_id>
+                <state_type>parallel</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Wait 3 S","type":"wait","next":"Parallel Wait","duration":3}</configuration>
+                <entity_type>1</entity_type>
+                <name>Wait 3 S</name>
+                <resource_id>2000000021004</resource_id>
+                <state_id>2000000021023</state_id>
+                <state_type>wait</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Wait 2","type":"wait","next":"End","duration":3}</configuration>
+                <entity_type>1</entity_type>
+                <name>Wait 2</name>
+                <resource_id>2000000021004</resource_id>
+                <state_id>2000000021020</state_id>
+                <state_type>wait</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Branch","type":"branch","next":"End","branches":[{"condition":"$.key1 == 'value1'","next":"Wait 3 S"}]}</configuration>
+                <entity_type>1</entity_type>
+                <name>Branch</name>
+                <resource_id>2000000021004</resource_id>
+                <state_id>2000000021018</state_id>
+                <state_type>branch</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Wait 1","type":"wait","next":"End","duration":3}</configuration>
+                <entity_type>1</entity_type>
+                <name>Wait 1</name>
+                <resource_id>2000000021004</resource_id>
+                <state_id>2000000021021</state_id>
+                <state_type>wait</state_type>
+            </qc_state_details>
+        </qc_state>
+        <status>1</status>
+        <workspace_id>2000000000857</workspace_id>
+    </circuit>
+</bp_export_data>

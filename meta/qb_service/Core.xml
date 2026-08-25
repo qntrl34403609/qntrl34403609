@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <qb_service id="2000000003062" is_module="true">
+        <description>Bridge Configuration template</description>
+        <is_custom_service>false</is_custom_service>
+        <is_default>false</is_default>
+        <is_enabled>true</is_enabled>
+        <link_name>Core</link_name>
+        <modified_on>1776756111562</modified_on>
+        <name>Core</name>
+        <qb_service_versions>
+            <qb_service_versions_details>
+                <content>{"file_id":"2000000003063"}</content>
+                <content_type>application/zip</content_type>
+                <file_id>7746462000000003003</file_id>
+                <is_enabled>true</is_enabled>
+                <name>native.zip</name>
+                <service_id>2000000003062</service_id>
+                <size>2585</size>
+                <version>2</version>
+                <version_id>2000000003063</version_id>
+            </qb_service_versions_details>
+        </qb_service_versions>
+        <service_id>2000000003062</service_id>
+        <zfs_folder_id>7746462000000004002</zfs_folder_id>
+    </qb_service>
+</bp_export_data>

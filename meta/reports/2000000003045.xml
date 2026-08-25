@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <reports id="2000000003045" is_module="true">
+        <chart_data>{"aggregate_column":"resolution_time_days","aggregate_function":"avg","chart_type":"verticalbar","plotColumn_type":"process_id","plot_column":"PROCESS_ID"}</chart_data>
+        <description>Find the average time taken by Cards to complete the blueprint.</description>
+        <filter>{}</filter>
+        <folder_id>2000000002999</folder_id>
+        <is_char_enabled>true</is_char_enabled>
+        <is_hiddedn>false</is_hiddedn>
+        <is_table_view_enabled>false</is_table_view_enabled>
+        <layout_id>2000000003019</layout_id>
+        <module>1</module>
+        <name>Blueprint Duration Analysis</name>
+        <report_id>2000000003045</report_id>
+        <report_type>2</report_type>
+    </reports>
+</bp_export_data>

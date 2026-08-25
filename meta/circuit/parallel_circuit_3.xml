@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <circuit id="2000000021025" is_module="true">
+        <circuit_id>2000000021025</circuit_id>
+        <circuit_map>
+            <circuit_id>2000000021025</circuit_id>
+            <definition_file_id>7746462000000008005</definition_file_id>
+        </circuit_map>
+        <content>{"file_id":"2000000021025"}</content>
+        <description/>
+        <is_active>true</is_active>
+        <link_name>parallel_circuit_3</link_name>
+        <modified_on>1785923584610</modified_on>
+        <name>Parallel Circuit</name>
+        <qc_state>
+            <qc_state_details>
+                <configuration>{"name":"Circuit4","type":"circuit","next":"End","workspace_id":"default_workspace","circuit_id":"base_circuit_2"}</configuration>
+                <entity_type>1</entity_type>
+                <name>Circuit4</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021028</state_id>
+                <state_type>circuit</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Circuit7","type":"circuit","next":"End","workspace_id":"default_workspace","circuit_id":"base_circuit_2"}</configuration>
+                <entity_type>1</entity_type>
+                <name>Circuit7</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021034</state_id>
+                <state_type>circuit</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Circuit5","type":"circuit","next":"End","workspace_id":"default_workspace","circuit_id":"base_circuit_2"}</configuration>
+                <entity_type>1</entity_type>
+                <name>Circuit5</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021036</state_id>
+                <state_type>circuit</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Circuit2","type":"circuit","next":"End","workspace_id":"default_workspace","circuit_id":"base_circuit_2"}</configuration>
+                <entity_type>1</entity_type>
+                <name>Circuit2</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021030</state_id>
+                <state_type>circuit</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Circuit3","type":"circuit","next":"End","workspace_id":"default_workspace","circuit_id":"base_circuit_2"}</configuration>
+                <entity_type>1</entity_type>
+                <name>Circuit3</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021029</state_id>
+                <state_type>circuit</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Circuit6","type":"circuit","next":"End","workspace_id":"default_workspace","circuit_id":"base_circuit_2"}</configuration>
+                <entity_type>1</entity_type>
+                <name>Circuit6</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021035</state_id>
+                <state_type>circuit</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Sub Circuit","type":"parallel","next":"End","paths":[{"name":"Circuit1","root":"Circuit1"},{"name":"Circuit2","root":"Circuit2"},{"name":"Circuit3","root":"Circuit3"},{"name":"Circuit4","root":"Circuit4"},{"name":"Circuit5","root":"Circuit5"},{"name":"Circuit6","root":"Circuit6"},{"name":"Circuit7","root":"Circuit7"}]}</configuration>
+                <entity_type>1</entity_type>
+                <name>Sub Circuit</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021033</state_id>
+                <state_type>parallel</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"State 1","type":"branch","next":"End","start":true,"branches":[{"condition":"$.key2== 'value2'","next":"Sub Circuit"}]}</configuration>
+                <entity_type>1</entity_type>
+                <name>State 1</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021032</state_id>
+                <state_type>branch</state_type>
+            </qc_state_details>
+            <qc_state_details>
+                <configuration>{"name":"Circuit1","type":"circuit","next":"End","workspace_id":"default_workspace","circuit_id":"base_circuit_2"}</configuration>
+                <entity_type>1</entity_type>
+                <name>Circuit1</name>
+                <resource_id>2000000021025</resource_id>
+                <state_id>2000000021031</state_id>
+                <state_type>circuit</state_type>
+            </qc_state_details>
+        </qc_state>
+        <resource_mapping>
+            <resource_mapping_details>
+                <child_resource_link_name>base_circuit_2</child_resource_link_name>
+                <child_resource_type>21</child_resource_type>
+                <circuit_link>
+                    <child_circuit_id>2000000021004</child_circuit_id>
+                    <child_link_name>base_circuit_2</child_link_name>
+                    <child_name>Base Circuit</child_name>
+                </circuit_link>
+                <mapping_id>2000000021037</mapping_id>
+                <parent_resource_link_name>parallel_circuit_3</parent_resource_link_name>
+                <parent_resource_type>21</parent_resource_type>
+            </resource_mapping_details>
+        </resource_mapping>
+        <status>1</status>
+        <workspace_id>2000000000857</workspace_id>
+    </circuit>
+</bp_export_data>

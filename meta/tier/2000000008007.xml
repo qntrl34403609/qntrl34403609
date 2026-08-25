@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <tier id="2000000008007" is_module="true">
+        <parent_tier_id>2000000002948</parent_tier_id>
+        <tier_description>Staging environment used for Testing, Demo and other purpose which doesn't have major changes here</tier_description>
+        <tier_id>2000000008007</tier_id>
+        <tier_name>Staging Environment</tier_name>
+        <type>1</type>
+    </tier>
+</bp_export_data>

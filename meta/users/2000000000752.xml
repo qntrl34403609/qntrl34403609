@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <users id="2000000000752" is_module="true">
+        <confirmed_status>1</confirmed_status>
+        <display_name>Debug User</display_name>
+        <email_id/>
+        <first_name>Debug User</first_name>
+        <invitation_status>3</invitation_status>
+        <is_admin>0</is_admin>
+        <user_id>2000000000752</user_id>
+        <user_type>3</user_type>
+        <userprofile_map>
+            <userprofile_map_details>
+                <profile_id>2000000000753</profile_id>
+                <user_id>2000000000752</user_id>
+            </userprofile_map_details>
+        </userprofile_map>
+        <zuid>-1</zuid>
+    </users>
+</bp_export_data>
