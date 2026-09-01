@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <emailtemplate id="3000000010081" is_module="true">
+        <content>{"file_id":"3000000010081"}</content>
+        <emailtemplate_id>3000000010081</emailtemplate_id>
+        <entity_type>1</entity_type>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <layout_id>3000000010001</layout_id>
+        <link_name>received_new_job_1</link_name>
+        <modified_on>1787914059444</modified_on>
+        <name>Received New Job</name>
+        <properties>{"CRM_CONTENT":"true","MAIL_MERGE_TEMPLATES":"[]","RECENT_ATTACHMENTS":"false","INLINE_ATTACHMENTS":"[3000000010079]","SUBJECT":"Received new Job"}</properties>
+        <workspace_id>2000000000857</workspace_id>
+    </emailtemplate>
+</bp_export_data>

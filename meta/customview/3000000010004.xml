@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <customview id="3000000010004" is_module="true">
+        <customview_id>3000000010004</customview_id>
+        <is_default>1</is_default>
+        <is_shared>0</is_shared>
+        <layout_id>3000000010001</layout_id>
+        <name>Mail Server</name>
+        <show_only_to_me>0</show_only_to_me>
+        <type>1</type>
+    </customview>
+</bp_export_data>

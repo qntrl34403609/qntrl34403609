@@ -1,0 +1,1 @@
+{"router":[{"path":"/","action":"java_function"}],"relationalStore":[],"connector":[],"name":"java_function","orgdependencies":[],"type":0,"versioned_dependencies":{},"versioned_orgdependencies":{},"dependencies":[]}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <webhook id="3000000010086" is_module="true">
+        <created_by>3000000007023</created_by>
+        <created_on>1787914111158</created_on>
+        <entity_type>1</entity_type>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <layout_id>3000000010001</layout_id>
+        <link_name>dummy_pic_1</link_name>
+        <modified_by>3000000007023</modified_by>
+        <modified_on>1787914111158</modified_on>
+        <name>Dummy Pic</name>
+        <properties>{"FORMATTED_PARAM_NAME":"","ENTITY_PARAMS":"[]","ADDITIONAL_PARAMS":"[]","CREDENTIAL_ID":-1,"CUSTOM_HEADERS":"[]","FORMATTED_PARAM":"","METHOD_TYPE":1,"URL":"https://dummyjson.com/image/300/da5047/030104?text=Hello+Peter&amp;fontFamily=cookie&amp;fontSize=36"}</properties>
+        <webhook_id>3000000010086</webhook_id>
+        <workspace_id>2000000000857</workspace_id>
+    </webhook>
+</bp_export_data>
