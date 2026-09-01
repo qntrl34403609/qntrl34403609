@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <businessrule id="2000000035007" is_module="true">
+        <created_by>2000000000003</created_by>
+        <created_on>1788155951280</created_on>
+        <description>Testing business rule</description>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <modified_by>2000000000003</modified_by>
+        <modified_on>1788155951280</modified_on>
+        <name>Test Business Rule</name>
+        <rule_crule_mappping>
+            <rule_crule_mappping_details>
+                <criteriarule>
+                    <delayed_rule_mapping>
+                        <delayed_rule_mapping_details>
+                            <delayed_rule>
+                                <entity_type>1</entity_type>
+                                <name>Test Business Rule - Criteria 1 - Delayed Rule1</name>
+                                <properties>{"DELAYED_TIME":"15##0"}</properties>
+                                <rule_id>2000000035010</rule_id>
+                                <rule_webhook_mapping>
+                                    <rule_webhook_mapping_details>
+                                        <entity_id>2000000035003</entity_id>
+                                        <rule_id>2000000035010</rule_id>
+                                    </rule_webhook_mapping_details>
+                                </rule_webhook_mapping>
+                            </delayed_rule>
+                            <entity_id>2000000035010</entity_id>
+                            <rule_id>2000000035009</rule_id>
+                        </delayed_rule_mapping_details>
+                    </delayed_rule_mapping>
+                    <name>Criteria 1</name>
+                    <rule_id>2000000035009</rule_id>
+                    <rule_webhook_mapping>
+                        <rule_webhook_mapping_details>
+                            <entity_id>2000000035003</entity_id>
+                            <rule_id>2000000035009</rule_id>
+                        </rule_webhook_mapping_details>
+                        <rule_webhook_mapping_details>
+                            <entity_id>2000000035004</entity_id>
+                            <rule_id>2000000035009</rule_id>
+                        </rule_webhook_mapping_details>
+                    </rule_webhook_mapping>
+                    <sequence>1</sequence>
+                </criteriarule>
+                <entity_id>2000000035009</entity_id>
+                <rule_id>2000000035007</rule_id>
+            </rule_crule_mappping_details>
+        </rule_crule_mappping>
+        <rule_id>2000000035007</rule_id>
+        <rule_service_mapping>
+            <rule_service_mapping_details>
+                <layout_id>2000000003019</layout_id>
+                <rule_id>2000000035007</rule_id>
+            </rule_service_mapping_details>
+        </rule_service_mapping>
+        <sequence>1</sequence>
+    </businessrule>
+</bp_export_data>

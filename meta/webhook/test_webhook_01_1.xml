@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <webhook id="2000000035004" is_module="true">
+        <created_by>2000000000003</created_by>
+        <created_on>1788155926192</created_on>
+        <entity_type>1</entity_type>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <layout_id>2000000003019</layout_id>
+        <link_name>test_webhook_01_1</link_name>
+        <modified_by>2000000000003</modified_by>
+        <modified_on>1788155926192</modified_on>
+        <name>Test Webhook 01</name>
+        <properties>{"FORMATTED_PARAM_NAME":"","ENTITY_PARAMS":[],"ADDITIONAL_PARAMS":"[]","CREDENTIAL_ID":-1,"CUSTOM_HEADERS":"[]","FORMATTED_PARAM":"","METHOD_TYPE":1,"URL":"https://eob1wtdmzqp1ula.m.pipedream.net"}</properties>
+        <webhook_id>2000000035004</webhook_id>
+        <workspace_id>2000000000857</workspace_id>
+    </webhook>
+</bp_export_data>
