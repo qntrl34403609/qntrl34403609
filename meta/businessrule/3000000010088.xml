@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <businessrule id="3000000010088" is_module="true">
+        <created_by>3000000007023</created_by>
+        <created_on>1787914113782</created_on>
+        <description>Rule executed on receive mail</description>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <modified_by>3000000007023</modified_by>
+        <modified_on>1787914113782</modified_on>
+        <name>Mail Receive Rule</name>
+        <rule_crule_mappping>
+            <rule_crule_mappping_details>
+                <criteriarule>
+                    <name>Criteria 1</name>
+                    <rule_alert_mapping>
+                        <rule_alert_mapping_details>
+                            <entity_id>3000000010083</entity_id>
+                            <rule_id>3000000010090</rule_id>
+                        </rule_alert_mapping_details>
+                    </rule_alert_mapping>
+                    <rule_id>3000000010090</rule_id>
+                    <rule_webhook_mapping>
+                        <rule_webhook_mapping_details>
+                            <entity_id>3000000010086</entity_id>
+                            <rule_id>3000000010090</rule_id>
+                        </rule_webhook_mapping_details>
+                    </rule_webhook_mapping>
+                    <sequence>1</sequence>
+                </criteriarule>
+                <entity_id>3000000010090</entity_id>
+                <rule_id>3000000010088</rule_id>
+            </rule_crule_mappping_details>
+        </rule_crule_mappping>
+        <rule_id>3000000010088</rule_id>
+        <rule_service_mapping>
+            <rule_service_mapping_details>
+                <layout_id>3000000010001</layout_id>
+                <rule_id>3000000010088</rule_id>
+            </rule_service_mapping_details>
+        </rule_service_mapping>
+        <sequence>1</sequence>
+    </businessrule>
+</bp_export_data>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <functions id="3000000008054" is_module="true">
+        <content>{"file_id":"functions/Java/java_function_2"}</content>
+        <created_by>3000000007023</created_by>
+        <created_on>1787644012544</created_on>
+        <customfunction_id>3000000008054</customfunction_id>
+        <description/>
+        <dre_function_id>7981000000003002</dre_function_id>
+        <entity_type>2</entity_type>
+        <execution_type>6</execution_type>
+        <function_modified>true</function_modified>
+        <is_active>true</is_active>
+        <link_name>java_function_2</link_name>
+        <modified_by>3000000007023</modified_by>
+        <modified_on>1787644167176</modified_on>
+        <name>java_function</name>
+        <properties>{"published_id":"Nzk4MTAwMDAwMDAwNDAwOA==","CFPARAMS":[],"CLIENT_CALLABLE":0}</properties>
+        <status>2</status>
+        <workspace_id>2000000000857</workspace_id>
+    </functions>
+</bp_export_data>

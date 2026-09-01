@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <transitionrule id="3000000010050" is_module="true">
+        <created_by>3000000007023</created_by>
+        <created_on>1787913897758</created_on>
+        <is_active>true</is_active>
+        <modified_by>3000000007023</modified_by>
+        <modified_on>1787913897758</modified_on>
+        <name>move to In Progress</name>
+        <rule_id>3000000010050</rule_id>
+    </transitionrule>
+</bp_export_data>

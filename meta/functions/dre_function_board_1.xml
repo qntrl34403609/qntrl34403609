@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <functions id="3000000008049" is_module="true">
+        <content>{"file_id":"functions/dre/dre_function_board_1"}</content>
+        <created_by>3000000007023</created_by>
+        <created_on>1787643874519</created_on>
+        <customfunction_id>3000000008049</customfunction_id>
+        <description/>
+        <dre_function_id>91679000000005001</dre_function_id>
+        <entity_type>1</entity_type>
+        <execution_type>0</execution_type>
+        <is_active>true</is_active>
+        <layout_id>2000000003019</layout_id>
+        <link_name>dre_function_board_1</link_name>
+        <modified_by>3000000007023</modified_by>
+        <modified_on>1787643948840</modified_on>
+        <name>dre_function_board</name>
+        <properties>{"published_id":"91679000000005001","CFPARAMS":[],"CLIENT_CALLABLE":0,"IS_APIKEY_ENABLED":false}</properties>
+        <status>2</status>
+        <workspace_id>2000000000857</workspace_id>
+    </functions>
+</bp_export_data>
