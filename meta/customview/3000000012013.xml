@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <customview id="3000000012013" is_module="true">
+        <customview_accessors>
+            <customview_accessors_details>
+                <customview_id>3000000012013</customview_id>
+                <entity_id>3000000012011</entity_id>
+                <entity_type>1</entity_type>
+            </customview_accessors_details>
+        </customview_accessors>
+        <customview_id>3000000012013</customview_id>
+        <is_default>1</is_default>
+        <is_shared>0</is_shared>
+        <name>Test Team 2</name>
+        <show_only_to_me>2</show_only_to_me>
+        <team_id>3000000012011</team_id>
+        <type>1</type>
+    </customview>
+</bp_export_data>

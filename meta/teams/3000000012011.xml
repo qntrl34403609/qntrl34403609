@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bp_export_data>
+    <teams id="3000000012011" is_module="true">
+        <email>server@zohotest.com</email>
+        <name>Test Team 2</name>
+        <team_id>3000000012011</team_id>
+        <userteam_map>
+            <userteam_map_details>
+                <team_id>3000000012011</team_id>
+                <user_id>2000000000003</user_id>
+            </userteam_map_details>
+        </userteam_map>
+    </teams>
+</bp_export_data>
